@@ -1,0 +1,812 @@
+firstName,surname,id,team,season,jumperNumber,position,providerId,dateOfBirth,draftYear,heightInCm,weightInKg,recruitedFrom,debutYear,draftType,draftPosition,data_accessed
+Tom,Doedee,813,Adelaide Crows,2022,39,KEY_DEFENDER,CD_I1000932,1997-03-01,2015,187,90,"St Joseph&apos;s, Geel (Vic)/St Joseph&apos;s College, Geel (Vic)/Geel U18",2018,nationalDraft,17,2022-10-24
+Lachlan,Murphy,1723,Adelaide Crows,2022,4,MEDIUM_FORWARD,CD_I1000998,1998-12-04,2017,175,81,Diamond Ck (Vic)/Ivanhoe Gram (Vic)/Nthrn U18/Adel (SANFL),2018,rookieElevation,38,2022-10-24
+Mitchell,Hinge,1292,Adelaide Crows,2022,20,MEDIUM_DEFENDER,CD_I1004863,1998-06-26,2020,189,91,Mundulla (SA)/Glenelg (SANFL)/Brisbane,2019,other,NA,2022-10-24
+Jordon,Butts,1824,Adelaide Crows,2022,41,KEY_DEFENDER,CD_I1004995,1999-12-31,2018,198,97,Shepparton Bears (Vic)/Murray U18,2020,rookieElevation,39,2022-10-24
+Elliott,Himmelberg,1357,Adelaide Crows,2022,34,KEY_FORWARD,CD_I1005199,1998-06-04,2016,200,99,Mt Gravatt (Qld)/Redland (NEAFL),2018,nationalDraft,51,2022-10-24
+Lachlan,Sholl,1761,Adelaide Crows,2022,38,MIDFIELDER,CD_I1006136,2000-03-07,2018,186,82,St Bernard&apos;s (Vic)/St Bernard&apos;s College (Vic)/Calder U18,2020,nationalDraft,64,2022-10-24
+Chayce,Jones,1782,Adelaide Crows,2022,1,MEDIUM_DEFENDER,CD_I1006203,2000-01-14,2018,180,82,Launceston (Tas),2019,nationalDraft,9,2022-10-24
+Will,Hamill,1781,Adelaide Crows,2022,17,MEDIUM_DEFENDER,CD_I1008159,2000-11-17,2018,185,81,Dromana (Vic)/Padua College (Vic)/Dandenong U18,2020,nationalDraft,30,2022-10-24
+Ned,McHenry,1767,Adelaide Crows,2022,25,MEDIUM_FORWARD,CD_I1008185,2000-07-13,2018,178,74,Barwon Heads (Vic)/Geel College (Vic)/Geel Gram (Vic)/Geel U18,2020,nationalDraft,16,2022-10-24
+Nick,Murray,2474,Adelaide Crows,2022,28,KEY_DEFENDER,CD_I1008230,2000-12-18,2020,194,98,Henty (NSW)/Murray U18/Ganmain-Grong Grong Matong (NSW)/Wang Rovers (Vic),2021,preseason,NA,2022-10-24
+Riley,Thilthorpe,4046,Adelaide Crows,2022,7,KEY_FORWARD,CD_I1008384,2002-07-07,2020,202,105,Goodwood (SA)/West Adelaide (SANFL),2021,nationalDraft,2,2022-10-24
+Harry,Schoenberg,3711,Adelaide Crows,2022,26,MIDFIELDER,CD_I1008543,2001-02-21,2019,183,83,Mintaro-Manoora (SA)/Woodville-West Torrens (SANFL),2020,nationalDraft,24,2022-10-24
+Kieran,Strachan,1894,Adelaide Crows,2022,45,RUCK,CD_I1008752,1995-10-05,2018,204,103,South Bendigo (Vic)/Port Melbourne (VFL),2020,rookieElevation,7,2022-10-24
+James,Borlase,4050,Adelaide Crows,2022,35,KEY_DEFENDER,CD_I1009029,2002-07-18,2020,192,100,Unley (SA)/Sturt (SANFL),NA,other,NA,2022-10-24
+Fischer,McAsey,2640,Adelaide Crows,2022,3,KEY_DEFENDER,CD_I1009201,2001-03-08,2019,198,98,East Brighton (Vic)/Caulfield Grammar (Vic)/Sandringham U18,2020,nationalDraft,6,2022-10-24
+Josh,Worrell,2696,Adelaide Crows,2022,24,KEY_DEFENDER,CD_I1011981,2001-04-11,2019,194,88,Bentleigh (Vic)/Haileybury College (Vic)/Sandringham U18,2021,nationalDraft,28,2022-10-24
+Luke,Pedlar,4049,Adelaide Crows,2022,10,MEDIUM_FORWARD,CD_I1012218,2002-05-17,2020,184,84,Kingston (SA)/Prince Alfred College (SA)/Glenelg (SANFL),2021,nationalDraft,11,2022-10-24
+Sam,Berry,2465,Adelaide Crows,2022,21,MIDFIELDER,CD_I1012807,2002-02-12,2020,182,86,Maffra (Vic)/Melbourne Grammar (Vic)/Gippsland U18,2021,nationalDraft,28,2022-10-24
+Patrick,Parnell,2637,Adelaide Crows,2022,37,MEDIUM_DEFENDER,CD_I1013153,2002-03-04,2021,177,71,Albury (NSW)/Murray U18,2022,other,4,2022-10-24
+Tariek,Newchurch,4047,Adelaide Crows,2022,42,MEDIUM_FORWARD,CD_I1016082,2002-07-21,2020,182,79,West Augusta (SA)/North Adelaide (SANFL),NA,other,NA,2022-10-24
+Josh,Rachele,3232,Adelaide Crows,2022,8,MEDIUM_FORWARD,CD_I1017051,2003-04-11,2021,180,80,Shepparton Swans (Vic)/Caulfield Grammar (Vic)/Murray U18,2022,nationalDraft,6,2022-10-24
+Zac,Taylor,2378,Adelaide Crows,2022,19,MIDFIELDER,CD_I1017065,2003-01-31,2021,182,79,Oak Park (Vic)/Penola Catholic College (Vic)/Calder U18,NA,nationalDraft,44,2022-10-24
+Jake,Soligo,2770,Adelaide Crows,2022,14,MIDFIELDER,CD_I1017109,2003-01-25,2021,180,77,Dromana (Vic)/Rowville Secondary College (Vic)/Eastern U18,2022,nationalDraft,36,2022-10-24
+Lachlan,Gollant,2364,Adelaide Crows,2022,44,KEY_FORWARD,CD_I1018075,2001-09-12,2019,192,85,St Bernard&apos;s (Vic)/PEGS (Vic)/Calder U18,2021,nationalDraft,48,2022-10-24
+Brayden,Cook,4048,Adelaide Crows,2022,15,MIDFIELDER,CD_I1018335,2002-07-18,2020,190,87,Happy Valley (SA)/South Adelaide (SANFL),2021,nationalDraft,25,2022-10-24
+Luke,Nankervis,5304,Adelaide Crows,2022,27,MIDFIELDER_FORWARD,CD_I1021031,2003-05-25,2021,191,77,Bentleigh (Vic)/Bentleigh SC (Vic)/Sandringham U18,NA,preseason,2,2022-10-24
+Rory,Sloane,45,Adelaide Crows,2022,9,MIDFIELDER,CD_I270963,1990-03-17,2008,183,82,Upwey-Tecoma (Vic)/Eastern U18,2009,nationalDraft,44,2022-10-24
+Taylor,Walker,35,Adelaide Crows,2022,13,KEY_FORWARD,CD_I280506,1990-04-25,2007,194,102,North Broken Hill (NSW)/NSW-ACT U18,2009,other,75,2022-10-24
+Brodie,Smith,34,Adelaide Crows,2022,33,MEDIUM_DEFENDER,CD_I291748,1992-01-14,2010,189,88,Henley (SA)/Woodville-West Torrens (SANFL),2011,nationalDraft,14,2022-10-24
+Luke,Brown,13,Adelaide Crows,2022,16,MEDIUM_DEFENDER,CD_I293193,1992-09-22,2011,181,81,Tea Tree Gully (SA)/Norwood (SANFL),2012,other,NA,2022-10-24
+Rory,Laird,193,Adelaide Crows,2022,29,MIDFIELDER,CD_I293222,1993-12-29,2013,178,78,Kenilworth (SA)/West Adelaide (SANFL),2013,rookieElevation,86,2022-10-24
+Paul,Seedsman,266,Adelaide Crows,2022,11,MIDFIELDER,CD_I294733,1992-01-22,2010,190,84,Rowville (Vic)/Eastern U18/Collingwood,2012,nationalDraft,76,2022-10-24
+Matt,Crouch,210,Adelaide Crows,2022,5,MIDFIELDER,CD_I297401,1995-04-21,2013,182,80,Beaufort (Vic)/North Ballarat U18,2014,nationalDraft,23,2022-10-24
+Reilly,O'Brien,763,Adelaide Crows,2022,43,RUCK,CD_I297523,1995-08-20,2016,203,105,Moonee Valley (Vic)/Calder U18,2016,rookieElevation,NA,2022-10-24
+Ben,Davis,1382,Adelaide Crows,2022,40,MEDIUM_DEFENDER,CD_I298417,1997-05-19,2021,188,90,University of NSW-Eastern Suburbs (NSW),2019,rookieElevation,4,2022-10-24
+Shane,McAdam,1924,Adelaide Crows,2022,23,MEDIUM_FORWARD,CD_I298470,1995-05-28,2018,183,82,Halls Creek (WA)/Scotch Old Collegians (SA)/Sturt (SANFL),2020,other,NA,2022-10-24
+Brett,Turner,8395,Adelaide Crows,2022,46,MIDFIELDER,CD_I990377,1996-11-01,2022,185,88,Flagstaff Hill (SA)/Blackwood HS/West Adelaide (SANFL)/Glenelg (SANFL),NA,other,4,2022-10-24
+Wayne,Milera,830,Adelaide Crows,2022,30,MEDIUM_FORWARD,CD_I990882,1997-09-14,2015,184,86,Ingle Farm (SA)/Central District (SANFL),2016,nationalDraft,11,2022-10-24
+Billy,Frampton,1037,Adelaide Crows,2022,22,KEY_DEFENDER,CD_I991773,1996-11-20,2014,201,99,East Fremantle Power (WA)/South Fremantle (WAFL)/Port Adel,2018,nationalDraft,84,2022-10-24
+Jordan,Dawson,1080,Adelaide Crows,2022,12,MEDIUM_DEFENDER,CD_I992242,1997-04-09,2015,192,86,Robe (SA)/Sturt (SANFL)/Sydney,2017,nationalDraft,56,2022-10-24
+Ben,Keays,886,Adelaide Crows,2022,2,MIDFIELDER,CD_I993946,1997-02-23,2019,186,89,Morningside (Qld)/Redland (NEAFL)/Brisbane,2016,rookieElevation,7,2022-10-24
+Andrew,McPherson,1658,Adelaide Crows,2022,36,MEDIUM_DEFENDER,CD_I997206,1999-06-20,2017,187,86,Port District (SA)/Woodville-West Torrens (SANFL),2020,nationalDraft,40,2022-10-24
+Jackson,Hately,1858,Adelaide Crows,2022,6,MIDFIELDER,CD_I999309,2000-10-21,2018,191,85,Walkerville (SA)/Trinity College (SA)/Central Dist (SANFL)/GWS,2019,nationalDraft,14,2022-10-24
+James,Rowe,4051,Adelaide Crows,2022,31,MEDIUM_FORWARD,CD_I999316,1999-09-17,2020,173,75,Henley (SA)/Woodville-West Torrens (SANFL),2021,nationalDraft,38,2022-10-24
+Darcy,Fogarty,1555,Adelaide Crows,2022,32,KEY_FORWARD,CD_I999331,1999-09-25,2017,194,99,Lucindale (SA)/Rostrevor College (SA)/Glenelg (SANFL),2018,nationalDraft,12,2022-10-24
+Hugh,McCluggage,1301,Brisbane Lions,2022,6,MIDFIELDER,CD_I1000978,1998-03-03,2016,185,86,South Warrnambool (Vic)/North Ballarat U18,2017,nationalDraft,3,2022-10-24
+Cam,Rayner,1665,Brisbane Lions,2022,16,MIDFIELDER_FORWARD,CD_I1002235,1999-10-21,2017,186,94,Hillside (Vic)/PEGS (Vic)/Western U18,2018,nationalDraft,1,2022-10-24
+Zac,Bailey,1577,Brisbane Lions,2022,33,MIDFIELDER_FORWARD,CD_I1002312,1999-09-23,2017,182,84,Southern Dists (NT)/Prince Alfred College (SA)/Norwood (SANFL),2018,nationalDraft,15,2022-10-24
+Jack,Payne,1661,Brisbane Lions,2022,40,KEY_DEFENDER,CD_I1002347,1999-10-15,2017,197,105,Noosa (Qld)/Brisbane (NEAFL),2020,nationalDraft,54,2022-10-24
+Brandon,Starcevich,1609,Brisbane Lions,2022,37,MEDIUM_DEFENDER,CD_I1002401,1999-07-24,2017,187,92,Mt Lawley-Inglewood (WA)/Trinity Coll (WA)/East Perth (WAFL),2018,nationalDraft,18,2022-10-24
+Noah,Answerth,1774,Brisbane Lions,2022,43,MEDIUM_DEFENDER,CD_I1005053,1999-08-06,2018,183,85,Caulfield (Vic)/Oakleigh U18,2019,nationalDraft,55,2022-10-24
+Oscar,McInerney,1317,Brisbane Lions,2022,46,RUCK,CD_I1005521,1994-07-10,2016,204,110,Montrose (Vic)/Casey (VFL),2018,rookieElevation,37,2022-10-24
+Ely,Smith,1914,Brisbane Lions,2022,8,MIDFIELDER,CD_I1006033,2000-09-13,2018,187,91,Yarrawonga (Vic)/Sacred Heart College (Vic)/Murray U18,NA,nationalDraft,21,2022-10-24
+Keidean,Coleman,2203,Brisbane Lions,2022,18,MEDIUM_DEFENDER,CD_I1006059,2000-03-31,2019,182,81,Morningside (Qld)/Brisbane (NEAFL),2020,nationalDraft,37,2022-10-24
+Connor,McFadyen,1773,Brisbane Lions,2022,26,KEY_DEFENDER,CD_I1006085,2000-12-04,2018,190,95,Wilston Grange (Qld),NA,nationalDraft,42,2022-10-24
+Thomas,Berry,1923,Brisbane Lions,2022,13,MEDIUM_FORWARD,CD_I1006100,2000-05-01,2018,185,81,Horsham Saints (Vic)/Ballarat Clarendon College (Vic)/GWV U18,2020,nationalDraft,36,2022-10-24
+Harry,Sharp,2670,Brisbane Lions,2022,22,MIDFIELDER,CD_I1007099,2002-12-17,2020,182,74,East Point (Vic)/St Patrick&apos;s Coll (Vic)/Caulf Gram (Vic)/GWV U18,2021,nationalDraft,43,2022-10-24
+Deven,Robertson,3713,Brisbane Lions,2022,2,MIDFIELDER_FORWARD,CD_I1009385,2001-06-30,2019,185,85,Manning (WA)/Aquinas College (WA)/Perth (WAFL),2020,nationalDraft,22,2022-10-24
+Jaxon,Prior,3714,Brisbane Lions,2022,20,MIDFIELDER,CD_I1009386,2001-06-04,2019,189,85,Sorrento-Duncraig (WA)/West Perth (WAFL),2021,nationalDraft,59,2022-10-24
+Blake,Coleman,2350,Brisbane Lions,2022,34,MEDIUM_FORWARD,CD_I1013256,2002-08-06,2020,182,82,Morningside (Qld),NA,nationalDraft,24,2022-10-24
+Carter,Michael,2351,Brisbane Lions,2022,39,MEDIUM_DEFENDER,CD_I1013260,2002-05-22,2020,188,83,Maroochydore (Qld),2022,other,NA,2022-10-24
+Tom,Fullarton,1771,Brisbane Lions,2022,21,KEY_FORWARD,CD_I1013532,1999-02-23,2018,200,98,Caloundra (Qld)/Brisbane (NEAFL),2020,other,NA,2022-10-24
+James,Madden,1899,Brisbane Lions,2022,14,MEDIUM_DEFENDER,CD_I1013978,1999-11-15,2018,188,88,County Dublin (Ireland),2021,other,NA,2022-10-24
+Kai,Lohmann,5146,Brisbane Lions,2022,1,MEDIUM_FORWARD,CD_I1014026,2003-05-06,2021,185,77,"Lake Wendoree (Vic)/St Patrick&apos;s College, Ballarat/GWV U18",2022,nationalDraft,20,2022-10-24
+Henry,Smith,4053,Brisbane Lions,2022,19,RUCK,CD_I1016189,2002-09-24,2020,206,104,Blackwood (SA)/Woodville-West Torrens (SANFL),NA,nationalDraft,48,2022-10-24
+Darcy,Wilmot,2786,Brisbane Lions,2022,44,MEDIUM_DEFENDER,CD_I1017067,2003-12-31,2021,183,75,Montmorency (Vic)/Hazel Glen College (Vic)/Northern U18,2022,nationalDraft,16,2022-10-24
+Kalin,Lane,5556,Brisbane Lions,2022,45,RUCK,CD_I1018296,2001-12-05,2021,205,102,Denmark-Walpole (WA)/Claremont (WAFL),NA,other,14,2022-10-24
+James,Tunstill,5673,Brisbane Lions,2022,29,MIDFIELDER,CD_I1021108,2003-07-18,2021,187,75,Busselton (WA)/Bunbury Grammar (WA)/East Perth (WAFL),2022,nationalDraft,41,2022-10-24
+Deividas,Uosis,4052,Brisbane Lions,2022,41,MEDIUM_DEFENDER,CD_I1021659,2000-06-28,2020,182,78,County Kerry (Ireland),NA,other,NA,2022-10-24
+Dayne,Zorko,8,Brisbane Lions,2022,15,MIDFIELDER_FORWARD,CD_I261224,1989-02-09,2011,175,82,Surfers Paradise (Qld)/Broadbeach (Qld),2012,other,NA,2022-10-24
+Daniel,Rich,190,Brisbane Lions,2022,10,MEDIUM_DEFENDER,CD_I271072,1990-06-07,2008,183,95,Sorrento-Duncraig (WA)/Subiaco (WAFL),2009,nationalDraft,7,2022-10-24
+Mitch,Robinson,211,Brisbane Lions,2022,5,MIDFIELDER,CD_I290311,1989-06-07,2008,184,89,Lauderdale (Tas)/Tasmania U18/Tasmania (VFL)/Carlton,2009,nationalDraft,40,2022-10-24
+Ryan,Lester,124,Brisbane Lions,2022,35,MEDIUM_DEFENDER,CD_I291548,1992-08-26,2010,192,84,Mulgrave (Vic)/Oakleigh U18,2011,nationalDraft,28,2022-10-24
+Cameron,Ellis-Yolmen,92,Brisbane Lions,2022,28,MEDIUM_FORWARD,CD_I293479,1993-01-28,2021,190,100,Flinders Park (SA)/Woodville-West Torrens (SANFL)/Adelaide,2014,rookieElevation,14,2022-10-24
+Lachie,Neale,355,Brisbane Lions,2022,9,MIDFIELDER,CD_I293535,1993-05-24,2011,178,84,Kybybolite (SA)/Glenelg (SANFL)/Fremantle,2012,nationalDraft,58,2022-10-24
+Lincoln,McCarthy,294,Brisbane Lions,2022,11,MEDIUM_FORWARD,CD_I293581,1993-10-22,2011,178,82,Bordertown (SA)/Glenelg (SANFL)/Geelong,2012,nationalDraft,66,2022-10-24
+Jarryd,Lyons,194,Brisbane Lions,2022,17,MIDFIELDER,CD_I293716,1992-07-22,2010,184,88,St Peters (Vic)/Sandringham U18/Adelaide/Gold Coast,2012,nationalDraft,61,2022-10-24
+Marcus,Adams,959,Brisbane Lions,2022,24,KEY_DEFENDER,CD_I294168,1993-06-30,2015,192,98,Upper Swan (WA)/West Perth (WAFL)/Western Bulldogs,2016,nationalDraft,35,2022-10-24
+Joe,Daniher,282,Brisbane Lions,2022,3,KEY_FORWARD,CD_I294518,1994-03-04,2012,201,97,Aberfeldie (Vic)/Calder U18/Essendon,2013,fatherSon,10,2022-10-24
+Darcy,Gardiner,132,Brisbane Lions,2022,27,KEY_DEFENDER,CD_I296269,1995-09-22,2013,192,91,Queenscliff (Vic)/St Joseph&apos;s College (Vic)/Geelong U18,2014,nationalDraft,22,2022-10-24
+Daniel,McStay,249,Brisbane Lions,2022,25,KEY_FORWARD,CD_I297504,1995-06-24,2013,195,98,Vermont (Vic)/Eastern U18,2014,nationalDraft,25,2022-10-24
+Darcy,Fort,1940,Brisbane Lions,2022,32,RUCK,CD_I298211,1993-08-06,2018,204,98,Sth Barwon (Vic)/Geel U18/Werribee (VFL)/Foots (VFL)/Cent Dist (SANFL)/Geel,2019,nationalDraft,65,2022-10-24
+Nakia,Cockatoo,911,Brisbane Lions,2022,12,MEDIUM_FORWARD,CD_I298336,1996-10-23,2014,185,90,Southern Districts (NT)/NT Thunder (NEAFL)/Geelong,2015,nationalDraft,10,2022-10-24
+Callum,Ah Chee,850,Brisbane Lions,2022,4,MIDFIELDER,CD_I298437,1997-10-09,2015,183,81,Kelmscott (WA)/South Fremantle (WAFL)/Gold Coast,2016,nationalDraft,8,2022-10-24
+Charlie,Cameron,152,Brisbane Lions,2022,23,MEDIUM_FORWARD,CD_I990609,1994-07-05,2014,180,76,Newman Saints (WA)/Swan Districts (WAFL)/Adelaide,2014,rookieElevation,NA,2022-10-24
+Rhys,Mathieson,758,Brisbane Lions,2022,36,MIDFIELDER_FORWARD,CD_I993828,1997-01-10,2015,186,86,Bell Park (Vic)/Geelong U18,2016,nationalDraft,39,2022-10-24
+Eric,Hipwood,864,Brisbane Lions,2022,30,KEY_FORWARD,CD_I993953,1997-09-13,2015,203,92,Caloundra (Qld)/Aspley (NEAFL),2016,nationalDraft,14,2022-10-24
+Harris,Andrews,822,Brisbane Lions,2022,31,KEY_DEFENDER,CD_I996059,1996-12-11,2014,202,100,Aspley (NEAFL),2015,nationalDraft,61,2022-10-24
+Mitch,Cox,4839,Brisbane Lions,2022,42,MIDFIELDER,CD_I996707,1997-03-24,2021,190,81,Narre Warren / Dandenong Stingrays/Frankston (VFL),NA,preseason,NA,2022-10-24
+Jarrod,Berry,1343,Brisbane Lions,2022,7,MIDFIELDER,CD_I998133,1998-02-05,2016,192,90,Horsham Saints (Vic)/Ballarat Clarendon College (Vic)/North Ballarat U18,2017,nationalDraft,17,2022-10-24
+John,Noble,1768,Collingwood,2022,9,MEDIUM_DEFENDER,CD_I1000072,1997-03-25,2019,180,75,Plympton (SA)/West Adelaide (SANFL),2019,other,14,2022-10-24
+Callum L.,Brown,1377,Collingwood,2022,17,MEDIUM_FORWARD,CD_I1002770,1998-04-27,2016,179,81,Beverley Hills (Vic)/Marcellin College (Vic)/Eastern U18,2017,fatherSon,35,2022-10-24
+Patrick,Lipinski,1353,Collingwood,2022,1,MIDFIELDER_FORWARD,CD_I1003130,1998-07-17,2016,190,86,Eltham (Vic)/Northern U18/Western Bulldogs,2017,nationalDraft,28,2022-10-24
+Beau,McCreery,4056,Collingwood,2022,31,MEDIUM_FORWARD,CD_I1004757,2001-04-19,2020,186,84,Cove (SA)/South Adelaide (SANFL),2021,nationalDraft,44,2022-10-24
+Josh,Daicos,1321,Collingwood,2022,7,MIDFIELDER,CD_I1005054,1998-11-26,2016,178,78,Greythorn (Vic)/Bulleen-Templestowe (Vic)/Oakleigh U18,2017,fatherSon,57,2022-10-24
+Nathan,Murphy,1556,Collingwood,2022,28,KEY_DEFENDER,CD_I1005107,1999-12-15,2017,192,97,East Sandringham (Vic)/Brighton Grammar (Vic)/Sandr U18,2018,nationalDraft,39,2022-10-24
+Isaac,Quaynor,1772,Collingwood,2022,3,MEDIUM_DEFENDER,CD_I1008089,2000-01-15,2018,180,87,East Doncaster (Vic)/Oakleigh U18,2019,nationalDraft,13,2022-10-24
+Tyler,Brown,1672,Collingwood,2022,6,MIDFIELDER_FORWARD,CD_I1008171,1999-12-09,2017,192,84,Templestowe (Vic)/Eastern U18,2020,fatherSon,50,2022-10-24
+Will,Kelly,1784,Collingwood,2022,20,KEY_DEFENDER,CD_I1008285,2000-08-16,2018,194,92,Glen Iris (Vic)/Scotch College (Vic)/Oakleigh U18,2020,fatherSon,29,2022-10-24
+Trent,Bianco,2690,Collingwood,2022,8,MIDFIELDER_FORWARD,CD_I1009186,2001-01-20,2019,178,75,Doncaster (Vic)/Marcellin College (Vic)/Oakleigh U18,2021,nationalDraft,45,2022-10-24
+Charlie,Dean,2679,Collingwood,2022,43,KEY_DEFENDER,CD_I1009197,2001-06-19,2021,195,89,Collegians (Vic)/Wesley Coll (Vic)/Sandr U18/Williamstown (VFL),NA,rookieElevation,2,2022-10-24
+Trey,Ruscoe,3715,Collingwood,2022,21,MEDIUM_DEFENDER,CD_I1009383,2001-11-03,2019,193,93,Booragoon (WA)/Aquinas College (WA)/East Fremantle (WAFL),2020,nationalDraft,55,2022-10-24
+Jack,Madgen,1466,Collingwood,2022,44,KEY_DEFENDER,CD_I1010841,1993-04-25,2017,192,94,Barossa District (SA),2018,other,NA,2022-10-24
+Caleb,Poulter,4057,Collingwood,2022,24,MIDFIELDER,CD_I1011589,2002-10-12,2020,194,84,Ardrossan (SA)/Woodville-West Torrens (SANFL),2021,nationalDraft,30,2022-10-24
+Arlo,Draper,5675,Collingwood,2022,19,MEDIUM_DEFENDER,CD_I1011637,2003-01-30,2021,186,78,Willunga (SA)/Cardijn Catholic Coll (SA)/S Adelaide (SANFL),NA,nationalDraft,45,2022-10-24
+Cooper,Murley,5676,Collingwood,2022,27,MIDFIELDER_FORWARD,CD_I1011718,2003-06-20,2021,178,67,Tea Tree Gully (SA)/Pedare Christian Coll (SA)/Norwood (SANFL),NA,nationalDraft,49,2022-10-24
+Finlay,Macrae,2695,Collingwood,2022,18,MIDFIELDER_FORWARD,CD_I1012828,2002-03-13,2020,188,83,Kew Rovers (Vic)/Xavier College (Vic)/Oakleigh U18,2021,nationalDraft,19,2022-10-24
+Liam,McMahon,2678,Collingwood,2022,29,KEY_DEFENDER,CD_I1012842,2002-05-02,2020,198,89,Eltham (Vic)/Northern U18,NA,nationalDraft,31,2022-10-24
+Jack,Ginnivan,2238,Collingwood,2022,33,MEDIUM_FORWARD,CD_I1012857,2002-12-09,2020,185,80,Strathfieldsaye (Vic)/Bendigo U18,2021,rookieElevation,13,2022-10-24
+Oliver,Henry,2591,Collingwood,2022,16,KEY_FORWARD,CD_I1012860,2002-07-29,2020,189,80,"St Mary&apos;s, Geelong (Vic)/St Joseph&apos;s College, Geel (Vic)/Geel U18",2021,nationalDraft,17,2022-10-24
+Reef,McInnes,2922,Collingwood,2022,26,MEDIUM_FORWARD,CD_I1013278,2002-12-12,2020,194,87,Surrey Park (Vic)/Scotch College (Vic)/Oakleigh U18,2022,nationalDraft,23,2022-10-24
+Mark,Keane,1901,Collingwood,2022,11,KEY_DEFENDER,CD_I1013974,2000-03-17,2018,194,96,County Cork (Ireland),2020,other,NA,2022-10-24
+Harvey,Harrison,5677,Collingwood,2022,36,MIDFIELDER_FORWARD,CD_I1015332,2003-11-10,2021,181,76,Golden Grove (SA)/Tyndale Christian Coll (SA)/North Adel (SANFL),NA,nationalDraft,52,2022-10-24
+Aiden,Begg,2703,Collingwood,2022,39,RUCK,CD_I1015748,2002-10-08,2021,197,90,North Ringwood (Vic)/Eastern U18,2022,other,18,2022-10-24
+Isaac,Chugg,3369,Collingwood,2022,34,MEDIUM_FORWARD,CD_I1015901,2002-02-26,2021,181,84,Launceston (Tas),2022,rookieElevation,20,2022-10-24
+Nick,Daicos,5257,Collingwood,2022,35,MEDIUM_DEFENDER,CD_I1023261,2003-01-03,2021,184,73,Kew Rovers (Vic)/Camberwell Grammar (Vic)/Oakleigh U18,2022,fatherSon,4,2022-10-24
+Josh,Carmichael,8396,Collingwood,2022,45,MIDFIELDER_FORWARD,CD_I1027021,1999-09-23,2022,190,89,Imperial (Vic)/Merbein (Vic)/Waratah (NT)/West Adelaide (SANFL),2022,other,9,2022-10-24
+Scott,Pendlebury,118,Collingwood,2022,10,MIDFIELDER,CD_I260257,1988-01-07,2005,191,86,Sale (Vic)/Gippsland U18,2006,nationalDraft,5,2022-10-24
+Jordan,Roughead,768,Collingwood,2022,23,KEY_DEFENDER,CD_I280012,1990-11-03,2008,200,98,Lake Wendouree (Vic)/North Ballarat U18/Western Bulldogs,2010,nationalDraft,31,2022-10-24
+Steele,Sidebottom,154,Collingwood,2022,22,MIDFIELDER,CD_I280965,1991-01-02,2008,184,84,Congupna (Vic)/Murray U18,2009,nationalDraft,11,2022-10-24
+Jeremy,Howe,504,Collingwood,2022,38,KEY_DEFENDER,CD_I291313,1990-06-29,2010,190,85,Dodges Ferry (Tas)/Hobart (Tas)/Melbourne,2011,nationalDraft,33,2022-10-24
+Will,Hoskin-Elliott,506,Collingwood,2022,32,MEDIUM_FORWARD,CD_I291720,1993-09-02,2011,186,83,North Sunshine (Vic)/Western U18/GWS,2012,nationalDraft,4,2022-10-24
+Taylor,Adams,145,Collingwood,2022,13,MIDFIELDER,CD_I291776,1993-09-20,2011,181,84,"St Joseph&apos;s Geel (Vic)/St Joseph&apos;s Coll, Geel (Vic)/Geel U18/GWS",2012,nationalDraft,13,2022-10-24
+Brody,Mihocek,1685,Collingwood,2022,41,KEY_FORWARD,CD_I291849,1993-02-04,2017,192,97,Burnie (Tas)/Tas U18/Maribyrnong Pk (Vic)/Werribee (VFL)/Port Melb (VFL),2018,rookieElevation,22,2022-10-24
+Jamie,Elliott,112,Collingwood,2022,5,MEDIUM_FORWARD,CD_I293801,1992-08-21,2011,178,80,Euroa (Vic)/Murray U18,2012,other,NA,2022-10-24
+Jack,Crisp,212,Collingwood,2022,25,MIDFIELDER,CD_I293871,1993-10-02,2012,190,92,Myrtleford (Vic)/Murray U18/Brisbane,2012,rookieElevation,86,2022-10-24
+Brodie,Grundy,113,Collingwood,2022,4,RUCK,CD_I293957,1994-04-15,2012,203,104,Unley (SA)/Sturt (SANFL),2013,nationalDraft,18,2022-10-24
+Darcy,Moore,895,Collingwood,2022,30,KEY_DEFENDER,CD_I298288,1996-01-25,2014,203,100,Kew Comets (Vic)/Carey Grammar (Vic)/Oakleigh U18,2015,fatherSon,9,2022-10-24
+Darcy,Cameron,1330,Collingwood,2022,14,RUCK,CD_I990291,1995-07-18,2016,204,101,North Albany (WA)/Claremont (WAFL)/Sydney,2018,nationalDraft,48,2022-10-24
+Brayden,Maynard,862,Collingwood,2022,37,MEDIUM_DEFENDER,CD_I992010,1996-09-20,2014,189,93,Hampton Rovers (Vic)/Sandringham U18,2015,nationalDraft,30,2022-10-24
+Tom,Wilson,3742,Collingwood,2022,12,MEDIUM_FORWARD,CD_I993797,1997-06-24,2019,194,86,East Sandringham (Vic)/Caulfield Grammar (Vic),2021,other,NA,2022-10-24
+Jordan,De Goey,782,Collingwood,2022,2,MIDFIELDER,CD_I994185,1996-03-15,2014,188,93,Ashburton (Vic)/St Kevin&apos;s College (Vic)/Oakleigh U18,2015,nationalDraft,5,2022-10-24
+Nathan,Kreuger,1814,Collingwood,2022,15,KEY_FORWARD,CD_I997254,1999-06-25,2018,196,93,Victor Harbour (SA)/South Adelaide (SANFL)/Geelong,2021,other,NA,2022-10-24
+Ash,Johnson,5557,Collingwood,2022,40,KEY_FORWARD,CD_I997974,1997-10-06,2021,193,87,Halls Ck (WA)/Clare (WAFL)/N Wang (Vic)/Scotch OC (SA)/Sturt (SANFL),2022,other,3,2022-10-24
+Mason,Cox,809,Collingwood,2022,46,RUCK,CD_I998647,1991-03-14,2017,211,108,Oklahoma State University (USA),2016,rookieElevation,NA,2022-10-24
+Jez,McLennan,1805,Gold Coast Suns,2022,43,MEDIUM_DEFENDER,CD_I1000044,2000-09-07,NA,185,85,NA,NA,NA,NA,2022-10-24
+Chris,Burgess,1910,Gold Coast Suns,2022,29,KEY_FORWARD,CD_I1000068,1995-11-26,NA,191,94,NA,NA,NA,NA,2022-10-24
+Izak,Rankine,1815,Gold Coast Suns,2022,22,MEDIUM_FORWARD,CD_I1001195,2000-04-23,NA,181,81,NA,NA,NA,NA,2022-10-24
+Charlie,Constable,1472,Gold Coast Suns,2022,33,MIDFIELDER,CD_I1002242,1999-05-18,NA,192,86,NA,NA,NA,NA,2022-10-24
+Jack,Lukosius,1831,Gold Coast Suns,2022,13,KEY_FORWARD,CD_I1004095,2000-08-09,NA,195,91,NA,NA,NA,NA,2022-10-24
+Josh,Corbett,1832,Gold Coast Suns,2022,19,KEY_FORWARD,CD_I1005547,1996-04-23,NA,190,90,NA,NA,NA,NA,2022-10-24
+Malcolm,Rosas,2602,Gold Coast Suns,2022,41,MEDIUM_FORWARD,CD_I1005986,2001-06-27,NA,175,70,NA,NA,NA,NA,2022-10-24
+Joel,Jeffrey,2568,Gold Coast Suns,2022,40,KEY_FORWARD,CD_I1005992,2002-03-12,NA,192,82,NA,NA,NA,NA,2022-10-24
+Caleb,Graham,1911,Gold Coast Suns,2022,46,KEY_DEFENDER,CD_I1006087,2000-09-12,NA,195,96,NA,NA,NA,NA,2022-10-24
+Ben,King,1810,Gold Coast Suns,2022,34,KEY_FORWARD,CD_I1006144,2000-07-07,NA,202,98,NA,NA,NA,NA,2022-10-24
+Wil,Powell,1474,Gold Coast Suns,2022,27,MEDIUM_DEFENDER,CD_I1007881,1999-08-26,NA,185,81,NA,NA,NA,NA,2022-10-24
+Connor,Budarick,2389,Gold Coast Suns,2022,35,MEDIUM_DEFENDER,CD_I1008454,2001-04-06,NA,175,75,NA,NA,NA,NA,2022-10-24
+Charlie,Ballard,1475,Gold Coast Suns,2022,10,KEY_DEFENDER,CD_I1008882,1999-07-23,NA,196,95,NA,NA,NA,NA,2022-10-24
+Noah,Anderson,2783,Gold Coast Suns,2022,15,MIDFIELDER,CD_I1009199,2001-02-17,NA,192,88,NA,NA,NA,NA,2022-10-24
+Matt,Rowell,2790,Gold Coast Suns,2022,18,MIDFIELDER,CD_I1009208,2001-07-01,NA,180,80,NA,NA,NA,NA,2022-10-24
+Sam,Flanders,2341,Gold Coast Suns,2022,26,MIDFIELDER_FORWARD,CD_I1009260,2001-07-24,NA,183,82,NA,NA,NA,NA,2022-10-24
+Hewago Paul,Oea,2508,Gold Coast Suns,2022,47,MEDIUM_FORWARD,CD_I1009320,2001-11-13,NA,172,70,NA,NA,NA,NA,2022-10-24
+Matt,Conroy,2738,Gold Coast Suns,2022,48,RUCK,CD_I1009334,2000-11-07,NA,199,95,NA,NA,NA,NA,2022-10-24
+Jeremy,Sharp,3721,Gold Coast Suns,2022,20,MIDFIELDER,CD_I1009380,2001-08-13,NA,189,81,NA,NA,NA,NA,2022-10-24
+Elijah,Hollands,2975,Gold Coast Suns,2022,36,MIDFIELDER,CD_I1012862,2002-04-25,NA,189,86,NA,NA,NA,NA,2022-10-24
+Rhys,Nicholls,2513,Gold Coast Suns,2022,38,MEDIUM_DEFENDER,CD_I1013247,2002-09-30,NA,188,79,NA,NA,NA,NA,2022-10-24
+Alex,Davies,2558,Gold Coast Suns,2022,5,MIDFIELDER_FORWARD,CD_I1013268,2002-03-18,NA,191,86,NA,NA,NA,NA,2022-10-24
+Sandy,Brock,2875,Gold Coast Suns,2022,45,KEY_DEFENDER,CD_I1013315,2002-12-14,NA,198,86,NA,NA,NA,NA,2022-10-24
+Patrick,Murtagh,2926,Gold Coast Suns,2022,42,KEY_DEFENDER,CD_I1016116,2000-02-11,NA,196,98,NA,NA,NA,NA,2022-10-24
+Oskar,Faulkhead,5038,Gold Coast Suns,2022,37,MIDFIELDER,CD_I1017089,2003-02-11,NA,182,76,NA,NA,NA,NA,2022-10-24
+Mac,Andrew,5063,Gold Coast Suns,2022,31,KEY_DEFENDER,CD_I1017396,2003-12-04,NA,201,74,NA,NA,NA,NA,2022-10-24
+Bodhi,Uwland,4868,Gold Coast Suns,2022,32,MEDIUM_DEFENDER,CD_I1017665,2003-07-25,NA,185,84,NA,NA,NA,NA,2022-10-24
+Ned,Moyle,5311,Gold Coast Suns,2022,49,RUCK,CD_I1021013,2002-02-15,NA,205,96,NA,NA,NA,NA,2022-10-24
+Rory,Thompson,359,Gold Coast Suns,2022,16,KEY_DEFENDER,CD_I281075,1991-03-12,2010,200,100,Southport (Qld),2011,zone,NA,2022-10-24
+Levi,Casboult,130,Gold Coast Suns,2022,30,KEY_FORWARD,CD_I281124,1990-03-15,2021,199,104,Beaconsfield (Vic)/Dandenong U18/Carlton,2012,rookieElevation,3,2022-10-24
+David,Swallow,406,Gold Coast Suns,2022,24,MIDFIELDER,CD_I290832,1992-11-19,2010,185,87,Rossmoyne (WA)/East Fremantle (WAFL),2011,nationalDraft,1,2022-10-24
+Sam,Day,186,Gold Coast Suns,2022,12,KEY_FORWARD,CD_I291753,1992-09-06,2010,197,99,Mitcham Hawks (SA)/Sturt (SANFL),2011,nationalDraft,3,2022-10-24
+Jarrod,Witts,161,Gold Coast Suns,2022,28,RUCK,CD_I291975,1992-09-13,2011,209,111,St Ives (NSW)/Sydney University (NSW)/Collingwood,2013,other,67,2022-10-24
+Brandon,Ellis,553,Gold Coast Suns,2022,4,MIDFIELDER,CD_I293713,1993-08-03,2011,181,82,West Coburg (Vic)/Calder U18/Richmond,2012,nationalDraft,15,2022-10-24
+Sean,Lemmens,611,Gold Coast Suns,2022,23,MEDIUM_DEFENDER,CD_I294013,1994-11-02,NA,184,81,NA,NA,NA,NA,2022-10-24
+Rory,Atkins,90,Gold Coast Suns,2022,2,MIDFIELDER,CD_I294472,1994-07-12,2012,186,85,Maribyrnong Park (Vic)/Calder U18/Adelaide,2015,nationalDraft,81,2022-10-24
+Alex,Sexton,309,Gold Coast Suns,2022,6,MEDIUM_FORWARD,CD_I294643,1993-12-03,2011,186,82,Springwood (Qld)/Redland (NEAFL),2012,zone,88,2022-10-24
+Sam,Collins,824,Gold Coast Suns,2022,25,KEY_DEFENDER,CD_I295446,1994-06-15,NA,194,99,NA,NA,NA,NA,2022-10-24
+James,Tsitas,6120,Gold Coast Suns,2022,21,MEDIUM_FORWARD,CD_I296280,1995-03-03,NA,181,84,NA,NA,NA,NA,2022-10-24
+Nick,Holman,128,Gold Coast Suns,2022,7,MEDIUM_FORWARD,CD_I297456,1995-05-29,NA,189,86,NA,NA,NA,NA,2022-10-24
+Touk,Miller,990,Gold Coast Suns,2022,11,MIDFIELDER,CD_I298272,1996-02-22,NA,178,84,NA,NA,NA,NA,2022-10-24
+Oleg,Markov,954,Gold Coast Suns,2022,17,MEDIUM_DEFENDER,CD_I298358,1996-05-08,NA,188,85,NA,NA,NA,NA,2022-10-24
+Lachie,Weller,823,Gold Coast Suns,2022,14,MEDIUM_DEFENDER,CD_I298524,1996-02-23,NA,181,83,NA,NA,NA,NA,2022-10-24
+Brayden,Fiorini,988,Gold Coast Suns,2022,8,MIDFIELDER,CD_I993799,1997-08-22,NA,186,84,NA,NA,NA,NA,2022-10-24
+Mabior,Chol,1125,Gold Coast Suns,2022,1,KEY_FORWARD,CD_I994077,1997-01-29,NA,200,96,NA,NA,NA,NA,2022-10-24
+Darcy,Macpherson,880,Gold Coast Suns,2022,44,MEDIUM_FORWARD,CD_I996464,1997-10-29,NA,174,79,NA,NA,NA,NA,2022-10-24
+Ben,Ainsworth,1402,Gold Coast Suns,2022,9,MEDIUM_FORWARD,CD_I998130,1998-02-10,NA,179,77,NA,NA,NA,NA,2022-10-24
+Jack,Bowes,1401,Gold Coast Suns,2022,3,MEDIUM_DEFENDER,CD_I998260,1998-01-26,NA,187,88,NA,NA,NA,NA,2022-10-24
+Jy,Farrar,3722,Gold Coast Suns,2022,50,MEDIUM_DEFENDER,CD_I999715,1996-12-07,NA,191,77,NA,NA,NA,NA,2022-10-24
+Harry,McKay,692,Carlton,2022,10,KEY_FORWARD,CD_I1000953,1997-12-24,NA,204,104,NA,NA,NA,NA,2022-10-24
+Jack,Silvagni,766,Carlton,2022,1,KEY_FORWARD,CD_I1001028,1997-12-17,NA,194,91,NA,NA,NA,NA,2022-10-24
+Matthew,Kennedy,922,Carlton,2022,7,MIDFIELDER,CD_I1001398,1997-04-06,NA,190,90,NA,NA,NA,NA,2022-10-24
+Lachie,Fogarty,1732,Carlton,2022,8,MEDIUM_FORWARD,CD_I1002228,1999-04-01,NA,180,76,NA,NA,NA,NA,2022-10-24
+Adam,Cerra,1562,Carlton,2022,5,MIDFIELDER,CD_I1002239,1999-10-07,NA,187,86,NA,NA,NA,NA,2022-10-24
+Paddy,Dow,1554,Carlton,2022,2,MIDFIELDER,CD_I1002256,1999-10-16,NA,187,85,NA,NA,NA,NA,2022-10-24
+Lochie,O'Brien,1557,Carlton,2022,4,MIDFIELDER,CD_I1002259,1999-09-18,NA,185,84,NA,NA,NA,NA,2022-10-24
+Jordan,Boyd,4803,Carlton,2022,37,MEDIUM_DEFENDER,CD_I1002795,1998-09-22,NA,182,80,NA,NA,NA,NA,2022-10-24
+Josh,Honey,3269,Carlton,2022,36,MEDIUM_FORWARD,CD_I1002938,2001-10-17,NA,186,85,NA,NA,NA,NA,2022-10-24
+Tom,De Koning,1544,Carlton,2022,12,RUCK,CD_I1004912,1999-07-16,NA,203,101,NA,NA,NA,NA,2022-10-24
+Sam,Walsh,1896,Carlton,2022,18,MIDFIELDER,CD_I1006094,2000-07-02,NA,184,84,NA,NA,NA,NA,2022-10-24
+Matthew,Cottrell,1895,Carlton,2022,46,MIDFIELDER_FORWARD,CD_I1008154,2000-02-29,NA,185,80,NA,NA,NA,NA,2022-10-24
+Liam,Stocker,1897,Carlton,2022,13,MEDIUM_DEFENDER,CD_I1008312,2000-01-23,NA,184,86,NA,NA,NA,NA,2022-10-24
+Corey,Durdin,4054,Carlton,2022,19,MEDIUM_FORWARD,CD_I1008510,2002-04-14,NA,173,76,NA,NA,NA,NA,2022-10-24
+Brodie,Kemp,2209,Carlton,2022,17,KEY_DEFENDER,CD_I1009241,2001-05-01,NA,193,88,NA,NA,NA,NA,2022-10-24
+Sam,Philp,2819,Carlton,2022,34,MIDFIELDER_FORWARD,CD_I1011929,2001-08-04,NA,186,83,NA,NA,NA,NA,2022-10-24
+Luke,Parks,3108,Carlton,2022,26,KEY_DEFENDER,CD_I1012409,2001-04-18,NA,192,86,NA,NA,NA,NA,2022-10-24
+Jack,Carroll,4055,Carlton,2022,16,MEDIUM_FORWARD,CD_I1013233,2002-12-20,NA,188,82,NA,NA,NA,NA,2022-10-24
+Matthew,Owies,1776,Carlton,2022,44,MEDIUM_FORWARD,CD_I1013973,1997-03-19,NA,180,81,NA,NA,NA,NA,2022-10-24
+Domanic,Akuei,3233,Carlton,2022,41,KEY_DEFENDER,CD_I1015830,2002-05-12,NA,192,78,NA,NA,NA,NA,2022-10-24
+Jesse,Motlop,5674,Carlton,2022,3,MEDIUM_FORWARD,CD_I1017700,2003-11-23,NA,176,76,NA,NA,NA,NA,2022-10-24
+Alex,Mirkov,5029,Carlton,2022,45,RUCK,CD_I1023446,1999-11-17,NA,210,104,NA,NA,NA,NA,2022-10-24
+Ed,Curnow,91,Carlton,2022,35,MIDFIELDER_FORWARD,CD_I270146,1989-11-07,2013,179,86,Modewarre (Vic)/Geel College (Vic)/Geel U18/Adel Rks/Box Hill (VFL),2011,rookieElevation,89,2022-10-24
+Liam,Jones,772,Carlton,2022,14,KEY_DEFENDER,CD_I281078,1991-02-24,2008,199,100,North Hobart (Tas)/Tasmania U18/Scotch College (Vic)/WB,2010,nationalDraft,32,2022-10-24
+Jack,Newnes,648,Carlton,2022,32,MIDFIELDER,CD_I291773,1993-02-24,2011,185,84,Ivanhoe (Vic)/Northern U18/St Kilda,2012,nationalDraft,37,2022-10-24
+George,Hewett,690,Carlton,2022,29,MIDFIELDER,CD_I294036,1995-12-29,NA,187,85,NA,NA,NA,NA,2022-10-24
+Lachie,Plowman,236,Carlton,2022,20,MEDIUM_DEFENDER,CD_I294624,1994-09-11,2012,193,87,Macedon (Vic)/Calder U18/GWS,2013,nationalDraft,3,2022-10-24
+Zac,Williams,483,Carlton,2022,6,MEDIUM_DEFENDER,CD_I294685,1994-09-20,2013,185,85,Albury (NSW)/NSW-ACT U18/Murray U18/GWS,2013,rookieElevation,95,2022-10-24
+Adam,Saad,913,Carlton,2022,42,MEDIUM_DEFENDER,CD_I295461,1994-07-23,NA,178,77,NA,NA,NA,NA,2022-10-24
+Sam,Docherty,80,Carlton,2022,15,MEDIUM_DEFENDER,CD_I295518,1993-10-17,2011,185,86,Phillip Island (Vic)/Gippsland U18/Brisbane,2013,nationalDraft,12,2022-10-24
+Jack,Martin,222,Carlton,2022,21,MEDIUM_FORWARD,CD_I296190,1995-01-29,NA,186,82,NA,NA,NA,NA,2022-10-24
+Mitch,McGovern,738,Carlton,2022,11,KEY_DEFENDER,CD_I297255,1994-10-11,NA,191,89,NA,NA,NA,NA,2022-10-24
+Sam,Durdin,1009,Carlton,2022,38,KEY_DEFENDER,CD_I297767,1996-06-06,NA,198,95,NA,NA,NA,NA,2022-10-24
+Nic,Newman,950,Carlton,2022,24,MEDIUM_DEFENDER,CD_I297907,1993-01-15,NA,187,80,NA,NA,NA,NA,2022-10-24
+Marc,Pittonet,892,Carlton,2022,27,RUCK,CD_I298290,1996-06-03,NA,202,104,NA,NA,NA,NA,2022-10-24
+Caleb,Marchbank,902,Carlton,2022,22,MEDIUM_DEFENDER,CD_I298302,1996-12-07,NA,193,92,NA,NA,NA,NA,2022-10-24
+Patrick,Cripps,270,Carlton,2022,9,MIDFIELDER,CD_I990704,1995-03-18,NA,195,93,NA,NA,NA,NA,2022-10-24
+Will,Hayes,1951,Carlton,2022,40,MIDFIELDER,CD_I991976,1995-06-05,NA,181,78,NA,NA,NA,NA,2022-10-24
+Oscar,McDonald,926,Carlton,2022,39,KEY_DEFENDER,CD_I992472,1996-03-18,NA,196,98,NA,NA,NA,NA,2022-10-24
+David,Cuningham,846,Carlton,2022,28,MIDFIELDER,CD_I993795,1997-03-30,NA,186,85,NA,NA,NA,NA,2022-10-24
+Jacob,Weitering,774,Carlton,2022,23,KEY_DEFENDER,CD_I993832,1997-11-23,NA,196,101,NA,NA,NA,NA,2022-10-24
+Charlie,Curnow,776,Carlton,2022,30,KEY_FORWARD,CD_I996731,1997-02-03,NA,192,92,NA,NA,NA,NA,2022-10-24
+Lewis,Young,1335,Carlton,2022,33,KEY_DEFENDER,CD_I997316,1998-12-20,NA,201,100,NA,NA,NA,NA,2022-10-24
+Thomas,Williamson,1329,Carlton,2022,31,MEDIUM_DEFENDER,CD_I998167,1998-12-12,NA,190,85,NA,NA,NA,NA,2022-10-24
+Will,Setterfield,1359,Carlton,2022,43,MIDFIELDER,CD_I998215,1998-02-05,NA,192,87,NA,NA,NA,NA,2022-10-24
+Zac,Fisher,1291,Carlton,2022,25,MEDIUM_FORWARD,CD_I999827,1998-06-15,NA,179,76,NA,NA,NA,NA,2022-10-24
+Callum,Coleman-Jones,1754,North Melbourne,2022,21,RUCK,CD_I1000061,1999-06-13,2017,200,105,Unley (SA)/Scotch College (SA)/Sturt (SANFL)/Richmond,2019,nationalDraft,20,2022-10-24
+Nick,Larkey,1355,North Melbourne,2022,20,KEY_FORWARD,CD_I1001017,1998-06-06,2016,198,95,Hawthorn Citizens (Vic)/Oakleigh U18,2017,nationalDraft,73,2022-10-24
+Ben,McKay,874,North Melbourne,2022,23,KEY_DEFENDER,CD_I1002143,1997-12-24,2015,201,99,Warragul (Vic)/Gippsland U18,2017,nationalDraft,21,2022-10-24
+Jaidyn,Stephenson,1659,North Melbourne,2022,2,MEDIUM_FORWARD,CD_I1002240,1999-01-15,2017,188,75,Ferntree Gully (Vic)/Eastern U18/Collingwood,2018,nationalDraft,6,2022-10-24
+Luke,Davies-Uniacke,1607,North Melbourne,2022,9,MIDFIELDER,CD_I1002267,1999-06-08,2017,188,87,Rye (Vic)/Haileybury College (Vic)/Dandenong U18,2018,nationalDraft,4,2022-10-24
+Paul,Curtis,4350,North Melbourne,2022,25,MEDIUM_FORWARD,CD_I1002947,2003-03-04,2021,185,75,Keilor (Vic)/Western U18,2022,nationalDraft,35,2022-10-24
+Aiden,Bonar,1480,North Melbourne,2022,16,KEY_DEFENDER,CD_I1004894,1999-03-08,2017,188,87,Seaford (Vic)/Haileybury College (Vic)/Dandenong U18/GWS,2018,nationalDraft,11,2022-10-24
+Lachie,Young,1907,North Melbourne,2022,17,MEDIUM_DEFENDER,CD_I1004909,1999-04-06,2020,189,81,Mt Eliza (Vic)/Peninsula Gram (Vic)/Dande U18/Frankston (VFL)/WB,2019,other,NA,2022-10-24
+Tristan,Xerri,1694,North Melbourne,2022,38,RUCK,CD_I1004965,1999-03-15,2017,201,99,Caroline Springs (Vic)/Western U18,2020,nationalDraft,72,2022-10-24
+Tarryn,Thomas,1934,North Melbourne,2022,26,MIDFIELDER_FORWARD,CD_I1005729,2000-03-25,2018,189,76,North Launceston (Tas),2019,nationalDraft,8,2022-10-24
+Bailey,Scott,1837,North Melbourne,2022,8,MEDIUM_DEFENDER,CD_I1006058,2000-07-09,2018,186,77,Broadbeach (Qld),2019,fatherSon,49,2022-10-24
+Curtis,Taylor,1844,North Melbourne,2022,5,MIDFIELDER,CD_I1006137,2000-04-06,2018,187,78,Keilor (Vic)/Calder U18,2019,nationalDraft,46,2022-10-24
+Matt,McGuinness,3056,North Melbourne,2022,41,KEY_DEFENDER,CD_I1006653,2000-07-13,2019,192,77,Lauderdale (Tas)/Tasmania U18,NA,other,NA,2022-10-24
+Atu,Bosenavulagi,1785,North Melbourne,2022,15,MEDIUM_DEFENDER,CD_I1008288,2000-09-17,2018,180,83,Boroondara (Vic)/CBC St Kilda (Vic)/Oakleigh U18/Collingwood,2020,nationalDraft,77,2022-10-24
+Jack,Mahony,2833,North Melbourne,2022,1,MEDIUM_FORWARD,CD_I1009189,2001-11-12,2019,178,72,St Kevin&apos;s College (Vic)/St Kevin&apos;s OB (Vic)/Sandringham U18,2020,nationalDraft,34,2022-10-24
+Jason,Horne-Francis,5691,North Melbourne,2022,6,MIDFIELDER_FORWARD,CD_I1011640,2003-06-21,2021,185,81,Christies Beach (SA)/South Adelaide (SANFL),2022,nationalDraft,1,2022-10-24
+Phoenix,Spicer,4069,North Melbourne,2022,36,MEDIUM_FORWARD,CD_I1011647,2002-01-30,2020,173,64,Morphettville Park (SA)/Henley HS (SA)/South Adelaide (SANFL),2021,nationalDraft,42,2022-10-24
+Tom,Powell,4068,North Melbourne,2022,24,MIDFIELDER_FORWARD,CD_I1011659,2002-03-02,2020,184,75,Unley (SA)/Scotch College (SA)/Sturt (SANFL),2021,nationalDraft,13,2022-10-24
+Flynn,Perez,2208,North Melbourne,2022,39,MIDFIELDER,CD_I1011771,2001-08-25,2019,188,85,Sandhurst (Vic)/Catherine McAuley College (Vic)/Bendigo U18,2020,nationalDraft,35,2022-10-24
+Kallan,Dawson,4988,North Melbourne,2022,42,KEY_DEFENDER,CD_I1012144,1998-07-22,2022,196,89,Williamstown CYMS (Vic)/Williamstown (VFL),2022,other,2,2022-10-24
+Will,Phillips,3261,North Melbourne,2022,29,MIDFIELDER,CD_I1012829,2002-05-22,2020,181,80,Beverley Hills (Vic)/Caulfield Grammar (Vic)/Oakleigh U18,2021,nationalDraft,3,2022-10-24
+Eddie,Ford,3223,North Melbourne,2022,40,MEDIUM_FORWARD,CD_I1012833,2002-06-21,2020,189,83,Yarraville-Seddon (Vic)/Western U18,2021,nationalDraft,56,2022-10-24
+Charlie,Lazzaro,2470,North Melbourne,2022,35,MEDIUM_FORWARD,CD_I1012852,2002-03-25,2020,179,73,St Mary&apos;s Geelong (Vic)/Geelong College (Vic)/Geelong U18,2021,nationalDraft,36,2022-10-24
+Patrick,Walker,3381,North Melbourne,2022,33,MEDIUM_DEFENDER,CD_I1013191,2002-07-09,2020,187,76,North Hobart (Tas),NA,rookieElevation,2,2022-10-24
+Charlie,Comben,2398,North Melbourne,2022,30,KEY_FORWARD,CD_I1015781,2001-07-20,2019,199,84,Sale (Vic)/Catholic College Sale (Vic)/Gippsland U18,2021,nationalDraft,31,2022-10-24
+Jacob,Edwards,3171,North Melbourne,2022,32,RUCK,CD_I1015895,2002-11-22,2021,202,85,Beaumaris (Vic)/Mentone Grammar (Vic)/Sandringham U18,NA,other,1,2022-10-24
+Miller,Bergman,2723,North Melbourne,2022,27,MEDIUM_DEFENDER,CD_I1017095,2003-01-25,2021,188,70,Berwick (Vic)/Mazenod College (Vic)/Dandenong U18,2022,nationalDraft,38,2022-10-24
+Josh,Goater,2487,North Melbourne,2022,31,MEDIUM_DEFENDER,CD_I1017118,2003-06-02,2021,190,80,Sunbury (Vic)/Sunbury College (Vic)/Calder U18,2022,nationalDraft,22,2022-10-24
+Jackson,Archer,5206,North Melbourne,2022,34,MEDIUM_DEFENDER,CD_I1020968,2003-01-09,2021,185,75,Park Orchards (Vic)/Whitefriars College (Vic)/Northern U18,2022,fatherSon,59,2022-10-24
+Tom,Lynch,41,North Melbourne,2022,0,MIDFIELDER,CD_I270938,1990-09-15,2008,193,88,Beaumaris (Vic)/Haileybury Coll (Vic)/Sandr U18/St Kilda/Adel,2010,nationalDraft,13,2022-10-24
+Todd,Goldstein,600,North Melbourne,2022,22,RUCK,CD_I271129,1988-07-01,2006,201,103,Trinity Grammar (Vic)/Oakleigh U18,2008,nationalDraft,37,2022-10-24
+Ben,Cunnington,664,North Melbourne,2022,10,MIDFIELDER,CD_I280921,1991-06-30,2009,185,88,Cobden (Vic)/Geelong U18,2010,nationalDraft,5,2022-10-24
+Jack,Ziebell,732,North Melbourne,2022,7,MEDIUM_FORWARD,CD_I280944,1991-02-28,2008,188,89,Wodonga (Vic)/Murray U18,2009,nationalDraft,9,2022-10-24
+Hugh,Greenwood,803,North Melbourne,2022,18,MIDFIELDER,CD_I281091,1992-03-06,2017,191,94,Lauderdale (Tas)/Adelaide/Gold Coast,2017,rookieElevation,NA,2022-10-24
+Jared,Polec,622,North Melbourne,2022,13,MIDFIELDER,CD_I290738,1992-10-12,2021,187,86,Seaton Ramblers (SA)/W-W Torrens (SANFL)/Brisbane/P Adel,2011,rookieElevation,1,2022-10-24
+Josh,Walker,335,North Melbourne,2022,19,KEY_DEFENDER,CD_I291550,1992-11-12,2013,197,98,Lara (Vic)/Geelong U18/Geelong/Brisbane,2012,rookieElevation,54,2022-10-24
+Jed,Anderson,531,North Melbourne,2022,3,MIDFIELDER_FORWARD,CD_I291861,1994-02-02,2012,179,81,Darwin (NT)/NT Thunder (NEAFL)/Hawthorn,2013,other,NA,2022-10-24
+Aidan,Corr,437,North Melbourne,2022,4,KEY_DEFENDER,CD_I294508,1994-05-17,2012,195,97,Macleod (Vic)/Northern U18/GWS,2013,nationalDraft,14,2022-10-24
+Luke,McDonald,424,North Melbourne,2022,11,MEDIUM_DEFENDER,CD_I296355,1995-02-09,2013,189,86,Kew Comets (Vic)/Oakleigh U18/Werribee (VFL),2014,fatherSon,8,2022-10-24
+Aaron,Hall,217,North Melbourne,2022,43,MEDIUM_DEFENDER,CD_I296735,1990-11-09,2011,185,85,Hobart (Tas)/Gold Coast,2012,preseason,7,2022-10-24
+Kayne,Turner,419,North Melbourne,2022,28,MEDIUM_DEFENDER,CD_I992499,1995-12-31,2014,180,71,Wodonga (Vic)/Murray U18,2014,rookieElevation,NA,2022-10-24
+Jy,Simpkin,1405,North Melbourne,2022,12,MIDFIELDER,CD_I993998,1998-03-05,2016,182,77,Mooroopna (Vic)/Scotch College (Vic)/Murray U18,2017,nationalDraft,12,2022-10-24
+Kyron,Hayden,1759,North Melbourne,2022,37,MEDIUM_DEFENDER,CD_I998327,1999-06-07,2018,186,87,Noranda (WA)/Hale College (WA)/Subiaco (WAFL),2019,rookieElevation,27,2022-10-24
+Cameron,Zurhaar,1404,North Melbourne,2022,44,MEDIUM_FORWARD,CD_I998484,1998-05-22,2016,189,92,Melville (WA)/East Fremantle (WAFL),2017,rookieElevation,11,2022-10-24
+Willem,Drew,1400,Port Adelaide,2022,28,MIDFIELDER,CD_I1000972,1998-10-01,2016,188,87,Koroit (Vic)/North Ballarat U18,2019,nationalDraft,33,2022-10-24
+Connor,Rozee,1848,Port Adelaide,2022,20,MIDFIELDER_FORWARD,CD_I1001299,2000-01-22,2018,185,80,South Augusta (SA)/North Adelaide (SANFL),2019,nationalDraft,5,2022-10-24
+Sam,Hayes,1612,Port Adelaide,2022,25,RUCK,CD_I1002248,1999-06-09,2017,205,102,Ferntree Gully (Vic)/Eastern U18,2022,nationalDraft,47,2022-10-24
+Kane,Farrell,1758,Port Adelaide,2022,24,MIDFIELDER_FORWARD,CD_I1002253,1999-03-17,2017,182,78,Castlemaine (Vic)/Bendigo U18,2018,nationalDraft,51,2022-10-24
+Jed,McEntee,5558,Port Adelaide,2022,41,MEDIUM_FORWARD,CD_I1004819,2001-02-15,2021,176,78,Mitcham (SA)/Sturt (SANFL),2021,other,13,2022-10-24
+Todd,Marshall,1356,Port Adelaide,2022,4,KEY_FORWARD,CD_I1004998,1998-10-08,2016,198,92,Deniliquin Rams (NSW)/Murray U18,2017,nationalDraft,16,2022-10-24
+Jackson,Mead,3732,Port Adelaide,2022,44,MIDFIELDER_FORWARD,CD_I1005326,2001-09-30,2019,184,85,SMOSH Westlakes (SA)/Henley HS (SA)/W-West Torrens (SANFL),2022,fatherSon,25,2022-10-24
+Xavier,Duursma,1852,Port Adelaide,2022,7,MIDFIELDER,CD_I1006096,2000-07-07,2018,186,81,Foster (Vic)/South Gippsland SC (Vic)/Gippsland U18,2019,nationalDraft,18,2022-10-24
+Zak,Butters,1856,Port Adelaide,2022,18,MIDFIELDER_FORWARD,CD_I1006121,2000-09-08,2018,181,78,Darley (Vic)/Maribyrnong College (Vic)/Western U18,2019,nationalDraft,12,2022-10-24
+Brynn,Teakle,6876,Port Adelaide,2022,27,RUCK,CD_I1007591,1999-10-16,NA,204,96,NA,NA,NA,NA,2022-10-24
+Miles,Bergman,2848,Port Adelaide,2022,14,MIDFIELDER,CD_I1009191,2001-10-18,2019,189,84,Hampton Rovers (Vic)/St Bede&apos;s College (Vic)/Sandringham U18,2021,nationalDraft,14,2022-10-24
+Dylan,Williams,2620,Port Adelaide,2022,23,MEDIUM_FORWARD,CD_I1009195,2001-07-01,2019,186,82,Surrey Park JFC (Vic)/Whitefriars Old Coll (Vic)/Whitefriars Coll (Vic)/Oakl U18,2021,nationalDraft,23,2022-10-24
+Jake,Pasini,3731,Port Adelaide,2022,48,KEY_DEFENDER,CD_I1009389,2001-02-06,2019,192,86,Caversham (WA)/Swan Districts (WAFL),NA,rookieElevation,8,2022-10-24
+Mitch,Georgiades,3733,Port Adelaide,2022,19,KEY_FORWARD,CD_I1010174,2001-09-28,2019,192,88,Marist (WA)/Hale School (WA)/Subiaco (WAFL),2020,nationalDraft,18,2022-10-24
+Lachie,Jones,4071,Port Adelaide,2022,34,MEDIUM_DEFENDER,CD_I1011583,2002-04-09,2020,186,90,Bute-Paskville (SA)/Woodville-West Torrens (SANFL),2021,nationalDraft,16,2022-10-24
+Taj,Schofield,4070,Port Adelaide,2022,37,MIDFIELDER,CD_I1012310,2002-09-07,2020,178,76,Sorrento-Duncraig (WA)/Subi Colts (WAFL)/Henley (SA)/W-W Torrens (SANFL),NA,rookieElevation,37,2022-10-24
+Ollie,Lord,2983,Port Adelaide,2022,30,KEY_FORWARD,CD_I1012881,2002-01-02,2020,197,87,East Brighton (Vic)/Geelong Grammar (Vic)/Sandringham U18,NA,nationalDraft,49,2022-10-24
+Jase,Burgoyne,5692,Port Adelaide,2022,36,MEDIUM_DEFENDER,CD_I1013462,2003-07-15,2021,186,65,Port District (SA)/Henley HS (SA)/Woodville-West Torrens (SANFL),2022,fatherSon,60,2022-10-24
+Hugh,Jackson,5693,Port Adelaide,2022,39,MIDFIELDER_FORWARD,CD_I1015330,2003-05-03,2021,182,72,Crystal Brook (SA)/Rostrevor Coll (SA)/North Adelaide (SANFL),NA,nationalDraft,55,2022-10-24
+Josh,Sinn,5295,Port Adelaide,2022,8,MIDFIELDER_FORWARD,CD_I1017078,2003-01-07,2021,187,78,East Brighton (Vic)/Xavier College (Vic)/Sandr U18/Old Xaverians (Vic),2022,nationalDraft,12,2022-10-24
+Dante,Visentini,5229,Port Adelaide,2022,38,RUCK,CD_I1017128,2003-02-13,2021,202,93,Brighton Beach (Vic)/Xavier College (Vic)/Sandringham U18,NA,nationalDraft,56,2022-10-24
+Travis,Boak,594,Port Adelaide,2022,10,MIDFIELDER,CD_I250365,1988-08-01,2006,183,85,Torquay (Vic)/Geelong U18,2007,nationalDraft,5,2022-10-24
+Robbie,Gray,731,Port Adelaide,2022,9,MEDIUM_FORWARD,CD_I261396,1988-03-30,2006,183,84,East Burwood (Vic)/Oakleigh U18,2007,nationalDraft,55,2022-10-24
+Charlie,Dixon,356,Port Adelaide,2022,22,KEY_FORWARD,CD_I280711,1990-09-23,2010,200,107,Redlynch (Qld)/Cairns (Qld)/Redland (Qld)/Gold Coast,2011,zone,NA,2022-10-24
+Steven,Motlop,333,Port Adelaide,2022,6,MEDIUM_FORWARD,CD_I280990,1991-03-12,2008,183,82,Wanderers (NT)/Geelong,2010,nationalDraft,39,2022-10-24
+Trent,McKenzie,463,Port Adelaide,2022,12,KEY_DEFENDER,CD_I290527,1992-04-03,2010,191,90,Williamstown Juniors (Vic)/Western U18/Gold Coast,2011,other,NA,2022-10-24
+Scott,Lycett,831,Port Adelaide,2022,29,RUCK,CD_I290746,1992-09-26,2010,203,102,Thevenard (SA)/Port Adelaide (SANFL)/West Coast,2011,nationalDraft,29,2022-10-24
+Tom,Jonas,674,Port Adelaide,2022,1,KEY_DEFENDER,CD_I292145,1991-01-09,2012,188,90,Rostrevor College (SA)/Norwood (SANFL),2011,rookieElevation,85,2022-10-24
+Sam,Mayes,61,Port Adelaide,2022,32,MEDIUM_FORWARD,CD_I293603,1994-05-20,2021,187,86,Port Pirie (SA)/North Adelaide (SANFL)/Brisbane,2013,rookieElevation,30,2022-10-24
+Ollie,Wines,678,Port Adelaide,2022,16,MIDFIELDER,CD_I294318,1994-10-07,2012,187,98,Echuca (Vic)/Bendigo U18,2013,nationalDraft,7,2022-10-24
+Aliir,Aliir,695,Port Adelaide,2022,21,KEY_DEFENDER,CD_I294469,1994-09-05,2013,194,96,Aspley (Qld)/East Fremantle (WAFL)/Sydney,2016,nationalDraft,44,2022-10-24
+Tom,Clurey,679,Port Adelaide,2022,17,KEY_DEFENDER,CD_I294504,1994-03-23,2012,193,95,Katamatite (Vic)/Murray U18,2014,nationalDraft,29,2022-10-24
+Trent,Dumont,527,Port Adelaide,2022,43,MIDFIELDER,CD_I296035,1995-06-30,2021,186,86,Golden Grove (SA)/Norwood (SANFL)/North Melbourne,2015,rookieElevation,16,2022-10-24
+Orazio,Fantasia,277,Port Adelaide,2022,13,MEDIUM_FORWARD,CD_I296334,1995-09-14,2013,180,75,Payneham Norwood Union (SA)/Norwood (SANFL)/Essendon,2014,nationalDraft,55,2022-10-24
+Karl,Amon,801,Port Adelaide,2022,15,MIDFIELDER,CD_I297354,1995-08-19,2013,181,77,East Sandringham (Vic)/Sandringham U18,2015,nationalDraft,68,2022-10-24
+Jeremy,Finlayson,904,Port Adelaide,2022,11,RUCK,CD_I298111,1996-02-09,2014,197,94,Culcairn (NSW)/Sydney Hills (NEAFL)/NSW-ACT U18/GWS,2017,nationalDraft,85,2022-10-24
+Darcy,Byrne-Jones,652,Port Adelaide,2022,33,MEDIUM_DEFENDER,CD_I991930,1995-09-20,2013,181,76,Camberwell (Vic)/Scotch College (Vic)/Oakleigh U18,2016,nationalDraft,52,2022-10-24
+Ryan,Burton,927,Port Adelaide,2022,3,MEDIUM_DEFENDER,CD_I992128,1997-01-31,2015,191,90,PHOS-Camden (SA)/North Adelaide (SANFL)/Hawthorn,2016,nationalDraft,19,2022-10-24
+Sam,Skinner,775,Port Adelaide,2022,31,KEY_DEFENDER,CD_I993836,1997-06-29,2015,198,98,DFA/2021 Newborough (Vic)/Gippsland U18/Brisbane/S Adelaide (SANFL),2017,nationalDraft,47,2022-10-24
+Sam,Powell-Pepper,1406,Port Adelaide,2022,2,MEDIUM_FORWARD,CD_I993979,1998-01-08,2016,187,96,Mount Hawthorn (WA)/Wesley College (WA)/East Perth (WAFL),2017,nationalDraft,18,2022-10-24
+Dan,Houston,1043,Port Adelaide,2022,5,MEDIUM_DEFENDER,CD_I994295,1997-05-12,2015,186,88,Greythorn (Vic)/Camberwell Grammar (Vic)/Oakleigh U18,2017,rookieElevation,45,2022-10-24
+Riley,Bonner,951,Port Adelaide,2022,26,MEDIUM_DEFENDER,CD_I994599,1997-03-07,2015,190,85,Goodwood (SA)/West Adelaide (SANFL),2016,nationalDraft,37,2022-10-24
+Martin,Frederick,1932,Port Adelaide,2022,45,MEDIUM_DEFENDER,CD_I999320,2000-05-17,2018,179,83,Portland (SA)/Woodville-West Torrens (SANFL),2021,other,NA,2022-10-24
+Mitch,Hannan,1347,Western Bulldogs,2022,29,MEDIUM_DEFENDER,CD_I1001449,1994-03-09,2016,190,88,Gisborne Rookies (Vic)/St Bernard&apos;s (Vic)/Footscray (VFL)/Melb,2017,nationalDraft,46,2022-10-24
+Aaron,Naughton,1621,Western Bulldogs,2022,33,KEY_FORWARD,CD_I1002404,1999-11-30,2017,195,93,Rockingham (WA)/Peel Thunder (WAFL),2018,nationalDraft,9,2022-10-24
+Tim,English,1409,Western Bulldogs,2022,44,RUCK,CD_I1004592,1997-08-10,2016,207,103,Brookton-Pingelly (WA)/South Fremantle (WAFL),2017,nationalDraft,19,2022-10-24
+Laitham,Vandermeer,1931,Western Bulldogs,2022,23,MEDIUM_FORWARD,CD_I1005000,1999-02-03,2018,181,79,Mooroopna (Vic)/Murray U18,2020,nationalDraft,37,2022-10-24
+Rhylee,West,1912,Western Bulldogs,2022,14,MEDIUM_FORWARD,CD_I1006127,2000-07-12,2018,182,85,Strathmore (Vic)/St Kevin&apos;s College (Vic)/Calder U18,2019,fatherSon,26,2022-10-24
+Bailey,Smith,1913,Western Bulldogs,2022,6,MIDFIELDER_FORWARD,CD_I1006130,2000-12-07,2018,185,86,East Malvern (Vic)/Xavier College (Vic)/Old Xavs (Vic)/Sandr U18,2019,nationalDraft,7,2022-10-24
+Riley,Garcia,3741,Western Bulldogs,2022,38,MEDIUM_FORWARD,CD_I1006533,2001-01-30,2019,177,77,Caversham (WA)/Swan Districts (WAFL),2021,nationalDraft,62,2022-10-24
+Ed,Richards,1722,Western Bulldogs,2022,20,MEDIUM_DEFENDER,CD_I1008280,1999-07-03,2017,188,86,Hawthorn Citizens (Vic)/Carey Grammar (Vic)/Oakleigh U18,2018,nationalDraft,16,2022-10-24
+Lachlan,McNeil,4079,Western Bulldogs,2022,30,MIDFIELDER_FORWARD,CD_I1009015,2001-09-02,2020,184,82,South Clare (SA)/Woodville-West Torrens (SANFL),2021,rookieElevation,11,2022-10-24
+Jamarra,Ugle-Hagan,2693,Western Bulldogs,2022,2,KEY_FORWARD,CD_I1009301,2002-04-04,2020,197,92,South Warrnambool (Vic)/Scotch College (Vic)/Oakleigh U18,2021,nationalDraft,1,2022-10-24
+Cody,Weightman,2401,Western Bulldogs,2022,19,MEDIUM_FORWARD,CD_I1011803,2001-01-15,2019,178,74,Beaconsfield (Vic)/Haileybury College (Vic)/Dandenong U18,2020,nationalDraft,15,2022-10-24
+Louis,Butler,3229,Western Bulldogs,2022,18,MIDFIELDER,CD_I1011992,2001-08-26,2019,185,79,Old Brighton (Vic)/Brighton Grammar (Vic)/Sandringham U18,2020,nationalDraft,53,2022-10-24
+Cody,Raak,3017,Western Bulldogs,2022,40,KEY_DEFENDER,CD_I1012879,2002-10-08,2021,193,83,Caroline Springs (Vic)/Lakeview Senior Coll (Vic)/Western U18/Footscray (VFL),NA,other,NA,2022-10-24
+Dominic,Bedendo,3231,Western Bulldogs,2022,26,MIDFIELDER,CD_I1015822,2002-07-09,2020,191,83,Myrtleford (Vic)/Murray U18,2022,nationalDraft,55,2022-10-24
+Luke,Cleary,3187,Western Bulldogs,2022,36,MEDIUM_DEFENDER,CD_I1015929,2002-03-05,2021,190,78,Beaumaris (Vic)/Haileybury College (Vic)/Sandringham U18,2022,nationalDraft,61,2022-10-24
+Sam,Darcy,5292,Western Bulldogs,2022,10,KEY_DEFENDER,CD_I1017126,2003-07-19,2021,205,94,Glen Iris (Vic)/Scotch College (Vic)/Oakleigh U18,2022,fatherSon,2,2022-10-24
+Arthur,Jones,5703,Western Bulldogs,2022,32,MEDIUM_FORWARD,CD_I1020586,2003-07-18,2021,179,65,Mt Barker (WA)/Wesley College (WA)/Claremont (WAFL),NA,nationalDraft,43,2022-10-24
+Charlie,Parker,5704,Western Bulldogs,2022,25,MIDFIELDER,CD_I1023224,1997-10-13,2021,193,88,Goodwood (SA)/Sturt (SANFL),NA,rookieElevation,17,2022-10-24
+Stefan,Martin,195,Western Bulldogs,2022,8,RUCK,CD_I280763,1986-11-17,2007,198,99,Old Haileybury (Vic)/Sandringham (VFL)/Melbourne/Brisbane,2008,preseason,3,2022-10-24
+Taylor,Duryea,431,Western Bulldogs,2022,15,MEDIUM_DEFENDER,CD_I290085,1991-04-24,2009,181,79,Wahgunyah (Vic)/Caulfield Grammar (Vic)/Murray U18/Hawthorn,2013,nationalDraft,69,2022-10-24
+Alex,Keath,719,Western Bulldogs,2022,42,KEY_DEFENDER,CD_I290797,1992-01-20,2017,197,99,Shepparton Bears (Vic)/Murray U18/Gold Coast List/Adelaide,2017,rookieElevation,NA,2022-10-24
+Tom,Liberatore,848,Western Bulldogs,2022,21,MIDFIELDER,CD_I290799,1992-05-16,2010,184,85,St Bernard&apos;s (Vic)/Calder U18,2011,fatherSon,41,2022-10-24
+Josh,Bruce,711,Western Bulldogs,2022,17,KEY_FORWARD,CD_I291492,1992-06-08,2011,198,97,Eastlake (NEAFL)/GWS/St Kilda,2012,zone,NA,2022-10-24
+Mitch,Wallis,634,Western Bulldogs,2022,3,MEDIUM_FORWARD,CD_I291545,1992-10-24,2010,186,86,St Bernard&apos;s(Vic)/Calder U18,2011,fatherSon,22,2022-10-24
+Adam,Treloar,492,Western Bulldogs,2022,1,MIDFIELDER,CD_I291790,1993-03-09,2011,184,89,Noble Park (Vic)/Dandenong U18/GWS/Collingwood,2012,other,NA,2022-10-24
+Hayden,Crozier,286,Western Bulldogs,2022,9,MEDIUM_DEFENDER,CD_I293651,1993-12-24,2011,187,81,Rowville (Vic)/Eastern U18/Fremantle,2012,nationalDraft,20,2022-10-24
+Jason,Johannisen,840,Western Bulldogs,2022,39,MEDIUM_FORWARD,CD_I294101,1992-11-08,2012,181,81,Willetton (WA)/East Fremantle (WAFL),2012,rookieElevation,105,2022-10-24
+Lachie,Hunter,749,Western Bulldogs,2022,7,MIDFIELDER,CD_I294557,1994-12-13,2012,182,81,Williamstown Juniors (Vic)/St Kevin&apos;s College (Vic)/Western U18,2013,fatherSon,49,2022-10-24
+Caleb,Daniel,952,Western Bulldogs,2022,35,MEDIUM_DEFENDER,CD_I295136,1996-07-07,2014,170,71,Edwardstown (SA)/South Adelaide (SANFL),2015,nationalDraft,46,2022-10-24
+Jack,Macrae,748,Western Bulldogs,2022,11,MIDFIELDER,CD_I295467,1994-08-03,2012,192,88,Kew Rovers (Vic)/Carey Grammar (Vic)/Oakleigh U18,2013,nationalDraft,6,2022-10-24
+Tim,O'Brien,254,Western Bulldogs,2022,22,KEY_DEFENDER,CD_I296041,1994-03-28,2012,193,92,West Gambier (SA)/Glenelg (SANFL)/Hawthorn,2014,nationalDraft,28,2022-10-24
+Robbie,McComb,4826,Western Bulldogs,2022,27,MIDFIELDER_FORWARD,CD_I296588,1995-12-19,2021,181,82,Wantirna South (Vic)/Footscray (VFL),2022,rookieElevation,31,2022-10-24
+Marcus,Bontempelli,857,Western Bulldogs,2022,4,MIDFIELDER,CD_I297373,1995-11-24,2013,193,93,Eltham (Vic)/Northern U18,2014,nationalDraft,4,2022-10-24
+Zaine,Cordy,1084,Western Bulldogs,2022,12,KEY_DEFENDER,CD_I991939,1996-10-27,2014,195,92,Ocean Grove (Vic)/Geelong College (Vic)/Geelong U18,2015,fatherSon,62,2022-10-24
+Anthony,Scott,4203,Western Bulldogs,2022,28,MIDFIELDER,CD_I992048,1995-02-28,2020,180,77,Kew Comets (Vic)/Trinity Gram (Vic)/Oakl U18/Old Trinity (Vic)/Foots (VFL),2021,preseason,NA,2022-10-24
+Roarke,Smith,1143,Western Bulldogs,2022,37,MIDFIELDER,CD_I992054,1996-09-11,2020,184,82,Sunbury (Vic)/Calder U18,2015,rookieElevation,26,2022-10-24
+Jordon,Sweet,1943,Western Bulldogs,2022,41,RUCK,CD_I992330,1998-02-02,2018,205,103,Tea Tree Gully (SA)/North Adelaide (SANFL),2021,rookieElevation,23,2022-10-24
+Bailey,Williams,969,Western Bulldogs,2022,34,MIDFIELDER,CD_I992351,1997-10-10,2015,189,86,Brighton District &amp; Old Scholars (SA)/Glenelg (SANFL),2016,nationalDraft,48,2022-10-24
+Josh,Dunkley,1083,Western Bulldogs,2022,5,MIDFIELDER_FORWARD,CD_I993834,1997-01-09,2015,191,91,Sale (Vic)/Gippsland U18,2016,nationalDraft,25,2022-10-24
+Josh,Schache,882,Western Bulldogs,2022,13,KEY_FORWARD,CD_I993841,1997-08-21,2015,201,94,Seymour (Vic)/Murray U18/Brisbane,2016,nationalDraft,2,2022-10-24
+Toby,McLean,1081,Western Bulldogs,2022,16,MIDFIELDER,CD_I996483,1996-01-31,2014,181,83,Narre Warren (Vic)/Oakleigh U18,2015,nationalDraft,26,2022-10-24
+Bailey,Dale,1053,Western Bulldogs,2022,31,MEDIUM_DEFENDER,CD_I996708,1996-07-22,2014,187,83,Edithvale-Aspendale (Vic)/Dandenong U18,2015,nationalDraft,45,2022-10-24
+Ryan,Gardner,900,Western Bulldogs,2022,43,KEY_DEFENDER,CD_I997501,1997-06-01,2015,197,95,Burnie Dockers (Tas)/Geelong List/Footscray (VFL),2019,nationalDraft,59,2022-10-24
+Buku,Khamis,1959,Western Bulldogs,2022,24,KEY_FORWARD,CD_I998782,2000-03-24,2018,190,85,St Albans (Vic Metro)/Maribyrnong College (Vic)/Western U18,2021,other,NA,2022-10-24
+Lachlan,Bramble,4313,Hawthorn,2022,16,MEDIUM_DEFENDER,CD_I1000864,1998-04-19,NA,181,80,NA,NA,NA,NA,2022-10-24
+Mitch,Lewis,1333,Hawthorn,2022,2,KEY_FORWARD,CD_I1000887,1998-10-14,NA,199,101,NA,NA,NA,NA,2022-10-24
+Max,Lynch,1319,Hawthorn,2022,18,RUCK,CD_I1000960,1998-09-12,NA,200,101,NA,NA,NA,NA,2022-10-24
+Harry,Morrison,1341,Hawthorn,2022,1,MIDFIELDER,CD_I1000963,1998-11-12,NA,183,81,NA,NA,NA,NA,2022-10-24
+Ned,Reeves,1822,Hawthorn,2022,37,RUCK,CD_I1001024,1998-10-31,NA,209,104,NA,NA,NA,NA,2022-10-24
+James,Worpel,1713,Hawthorn,2022,5,MIDFIELDER,CD_I1002222,1999-01-24,NA,186,88,NA,NA,NA,NA,2022-10-24
+Emerson,Jeka,3049,Hawthorn,2022,39,KEY_DEFENDER,CD_I1005150,2001-09-18,NA,198,96,NA,NA,NA,NA,2022-10-24
+Jacob,Koschitzke,1819,Hawthorn,2022,23,KEY_FORWARD,CD_I1006030,2000-07-11,NA,196,96,NA,NA,NA,NA,2022-10-24
+Dylan,Moore,1595,Hawthorn,2022,13,MEDIUM_FORWARD,CD_I1006314,1999-08-04,NA,178,76,NA,NA,NA,NA,2022-10-24
+Conor,Nash,1302,Hawthorn,2022,11,MIDFIELDER,CD_I1007124,1998-07-28,NA,197,94,NA,NA,NA,NA,2022-10-24
+Josh,Morris,3725,Hawthorn,2022,35,MEDIUM_DEFENDER,CD_I1008537,2001-11-07,NA,186,80,NA,NA,NA,NA,2022-10-24
+Will,Day,3726,Hawthorn,2022,12,MEDIUM_DEFENDER,CD_I1008550,2001-06-05,NA,191,81,NA,NA,NA,NA,2022-10-24
+Jack,Saunders,4067,Hawthorn,2022,43,MEDIUM_FORWARD,CD_I1008600,2002-02-11,NA,180,76,NA,NA,NA,NA,2022-10-24
+Finn,Maginness,2812,Hawthorn,2022,32,MIDFIELDER,CD_I1009421,2001-02-23,NA,189,84,NA,NA,NA,NA,2022-10-24
+Sam,Butler,5124,Hawthorn,2022,30,MEDIUM_FORWARD,CD_I1010708,2003-02-10,NA,184,76,NA,NA,NA,NA,2022-10-24
+James,Blanck,2447,Hawthorn,2022,36,KEY_DEFENDER,CD_I1011839,2000-11-20,NA,196,93,NA,NA,NA,NA,2022-10-24
+Connor,Downie,2545,Hawthorn,2022,41,MEDIUM_DEFENDER,CD_I1012830,2002-05-31,NA,186,83,NA,NA,NA,NA,2022-10-24
+Denver,Grainger-Barras,4065,Hawthorn,2022,24,KEY_DEFENDER,CD_I1013093,2002-04-17,NA,195,85,NA,NA,NA,NA,2022-10-24
+Jackson,Callow,3297,Hawthorn,2022,45,KEY_FORWARD,CD_I1013208,2002-06-11,NA,194,95,NA,NA,NA,NA,2022-10-24
+Tyler,Brockman,4066,Hawthorn,2022,33,MEDIUM_FORWARD,CD_I1013511,2002-11-22,NA,181,80,NA,NA,NA,NA,2022-10-24
+Jai,Serong,5107,Hawthorn,2022,29,MEDIUM_FORWARD,CD_I1017091,2003-02-16,NA,193,82,NA,NA,NA,NA,2022-10-24
+Connor,Macdonald,2722,Hawthorn,2022,31,MEDIUM_FORWARD,CD_I1017094,2003-01-13,NA,185,83,NA,NA,NA,NA,2022-10-24
+Josh,Ward,5252,Hawthorn,2022,25,MIDFIELDER,CD_I1017110,2003-08-15,NA,183,77,NA,NA,NA,NA,2022-10-24
+Ned,Long,2880,Hawthorn,2022,27,MIDFIELDER,CD_I1017124,2003-02-05,NA,194,92,NA,NA,NA,NA,2022-10-24
+Seamus,Mitchell,2484,Hawthorn,2022,40,MEDIUM_FORWARD,CD_I1018016,2002-07-03,NA,181,79,NA,NA,NA,NA,2022-10-24
+Jai,Newcombe,4712,Hawthorn,2022,44,MIDFIELDER,CD_I1020895,2001-08-02,NA,186,89,NA,NA,NA,NA,2022-10-24
+Fionn,O'Hara,5687,Hawthorn,2022,34,MEDIUM_DEFENDER,CD_I1024939,2002-02-28,NA,186,81,NA,NA,NA,NA,2022-10-24
+Max,Ramsden,6683,Hawthorn,2022,38,RUCK,CD_I1027965,2003-04-19,NA,203,86,NA,NA,NA,NA,2022-10-24
+Ben,McEvoy,512,Hawthorn,2022,7,RUCK,CD_I261323,1989-07-11,2007,200,101,Dederang-Mt Beauty (Vic)/Murray U18/St Kilda,2008,nationalDraft,9,2022-10-24
+Liam,Shiels,220,Hawthorn,2022,26,MIDFIELDER_FORWARD,CD_I280737,1991-04-29,2008,183,84,The Basin (Vic)/Eastern U18,2009,nationalDraft,34,2022-10-24
+Luke,Breust,312,Hawthorn,2022,22,MEDIUM_FORWARD,CD_I280744,1990-11-11,2011,184,83,Temora (NSW)/NSW-ACT U18,2011,rookieElevation,77,2022-10-24
+Kyle,Hartigan,87,Hawthorn,2022,28,KEY_DEFENDER,CD_I290228,1991-11-07,2013,194,101,Keilor (Vic)/Western U18/Werribee (VFL)/Adelaide,2013,rookieElevation,76,2022-10-24
+Jack,Gunston,500,Hawthorn,2022,19,KEY_FORWARD,CD_I291351,1991-10-16,2009,193,86,Beaumaris (Vic)/Haileybury College (Vic)/Sandr U18/Adelaide,2010,nationalDraft,29,2022-10-24
+Tom,Mitchell,587,Hawthorn,2022,3,MIDFIELDER,CD_I291856,1993-05-31,2011,182,83,Ashburton (Vic)/Claremont (WAFL)/Sydney,2013,fatherSon,21,2022-10-24
+Chad,Wingard,713,Hawthorn,2022,20,MEDIUM_FORWARD,CD_I291962,1993-07-29,2011,183,82,Imperials (SA)/Sturt (SANFL)/Port Adelaide,2012,nationalDraft,6,2022-10-24
+Sam,Frost,305,Hawthorn,2022,8,KEY_DEFENDER,CD_I293738,1993-08-28,2012,194,94,Ormond (Vic)/Wesley College (Vic)/Sandr U18/GWS/Melbourne,2012,rookieElevation,83,2022-10-24
+Jaeger,O'Meara,614,Hawthorn,2022,10,MIDFIELDER,CD_I294613,1994-02-23,2012,184,83,Dongara (WA)/Perth (WAFL)/Gold Coast,2013,other,1,2022-10-24
+Jarman,Impey,703,Hawthorn,2022,4,MEDIUM_DEFENDER,CD_I296254,1995-07-09,NA,178,81,NA,NA,NA,NA,2022-10-24
+James,Sicily,514,Hawthorn,2022,6,KEY_DEFENDER,CD_I297566,1995-01-06,NA,187,87,NA,NA,NA,NA,2022-10-24
+Daniel,Howe,986,Hawthorn,2022,17,MIDFIELDER,CD_I992462,1995-12-04,NA,193,88,NA,NA,NA,NA,2022-10-24
+Blake,Hardwick,924,Hawthorn,2022,15,MEDIUM_DEFENDER,CD_I993794,1997-02-05,NA,182,81,NA,NA,NA,NA,2022-10-24
+Tom,Phillips,908,Hawthorn,2022,21,MIDFIELDER,CD_I996487,1996-05-07,NA,187,80,NA,NA,NA,NA,2022-10-24
+Jack,Scrimshaw,1336,Hawthorn,2022,14,MEDIUM_DEFENDER,CD_I998114,1998-09-04,NA,193,89,NA,NA,NA,NA,2022-10-24
+Changkuoth,Jiath,1574,Hawthorn,2022,9,MEDIUM_DEFENDER,CD_I998390,1999-06-13,NA,185,80,NA,NA,NA,NA,2022-10-24
+Jack,Henry,1339,Geelong Cats,2022,38,KEY_DEFENDER,CD_I1000937,1998-08-29,2016,192,96,"St Mary&apos;s, Geelong (Vic)/Geelong U18",2018,rookieElevation,16,2022-10-24
+Esava,Ratugolea,1375,Geelong Cats,2022,17,KEY_FORWARD,CD_I1002220,1998-07-24,2016,198,108,Cobram (Vic)/Murray U18,2018,nationalDraft,43,2022-10-24
+Zach,Guthrie,1342,Geelong Cats,2022,39,MEDIUM_DEFENDER,CD_I1004870,1998-06-30,2016,187,84,Sunbury (Vic)/Calder U18,2017,rookieElevation,33,2022-10-24
+Gryan,Miers,1563,Geelong Cats,2022,32,MEDIUM_FORWARD,CD_I1004938,1999-03-30,2017,179,81,Grovedale (Vic)/Geelong U18,2019,nationalDraft,57,2022-10-24
+Sam,Simpson,1326,Geelong Cats,2022,37,MIDFIELDER,CD_I1004940,1998-06-14,2016,183,75,"St Joseph&apos;s, Geel (Vic)/St Joseph&apos;s College, Geel (Vic)/Geel U18",2017,rookieElevation,53,2022-10-24
+Cooper,Stephens,2260,Geelong Cats,2022,12,MIDFIELDER,CD_I1004948,2001-01-17,2019,188,86,Colac (Vic)/Geelong U18,2022,nationalDraft,16,2022-10-24
+Paul,Tsapatolis,4062,Geelong Cats,2022,36,RUCK,CD_I1007049,2002-06-20,2020,202,101,Yarraville-Seddon (Vic),NA,other,NA,2022-10-24
+Nick,Stevens,2709,Geelong Cats,2022,21,MEDIUM_DEFENDER,CD_I1007101,2002-03-23,2020,193,85,East Point (Vic)/Geelong Grammar (Vic)/GWV U18,NA,nationalDraft,47,2022-10-24
+Mark,O'Connor,1344,Geelong Cats,2022,42,MEDIUM_DEFENDER,CD_I1007102,1997-01-17,2016,191,89,County Kerry (Ireland),2017,other,NA,2022-10-24
+Sam,De Koning,2248,Geelong Cats,2022,16,KEY_DEFENDER,CD_I1009229,2001-02-26,2019,204,101,Mornington (Vic)/Dandenong U18,2021,nationalDraft,19,2022-10-24
+James,Willis,5683,Geelong Cats,2022,20,MIDFIELDER_FORWARD,CD_I1011633,2003-07-10,2021,183,78,Ingle Farm (SA)/The Heights School (SA)/North Adelaide (SANFL),NA,nationalDraft,32,2022-10-24
+Zane,Williams,8397,Geelong Cats,2022,41,MEDIUM_FORWARD,CD_I1013038,2001-06-05,2022,183,71,Woodville South (SA)/Woodville-West Torrens (SANFL),NA,other,12,2022-10-24
+Max,Holmes,3250,Geelong Cats,2022,9,MIDFIELDER,CD_I1015889,2002-08-29,2020,189,83,East Malvern (Vic)/Prahran (Vic)/Melb Grammar (Vic)/Sandr U18,2021,nationalDraft,20,2022-10-24
+Shannon,Neale,4063,Geelong Cats,2022,33,KEY_FORWARD,CD_I1016433,2002-07-25,2020,203,100,Jandakot (WA)/Leeming HS (WA)/South Fremantle (WAFL),2022,nationalDraft,33,2022-10-24
+Toby,Conway,5112,Geelong Cats,2022,6,RUCK,CD_I1017063,2003-04-24,2021,205,100,"St Mary&apos;s, Geelong (Vic)/Geelong College (Vic)/Geelong U18",NA,nationalDraft,24,2022-10-24
+Francis,Evans,2582,Geelong Cats,2022,31,MEDIUM_FORWARD,CD_I1017255,2001-08-23,2019,182,83,Brunswick North OB (Vic)/Brunswick SC (Vic)/Calder U18,2021,nationalDraft,41,2022-10-24
+Flynn,Kroeger,2820,Geelong Cats,2022,25,MIDFIELDER,CD_I1018020,2003-07-23,2021,185,85,Wandin (Vic)/Rowville Secondary College (Vic)/Eastern U18,NA,nationalDraft,48,2022-10-24
+Cooper,Whyte,5162,Geelong Cats,2022,11,MIDFIELDER,CD_I1021090,2003-02-24,2021,181,78,Grovedale (Vic)/Grovedale College (Vic)/Geelong U18,NA,nationalDraft,64,2022-10-24
+Mitch,Knevitt,5176,Geelong Cats,2022,10,MIDFIELDER,CD_I1021103,2003-01-08,2021,193,84,Grovedale (Vic)/Grovedale College (Vic)/Geelong U18,2022,nationalDraft,25,2022-10-24
+Oisin,Mullin,5684,Geelong Cats,2022,34,MEDIUM_DEFENDER,CD_I1024982,2000-02-11,2021,182,84,County Mayo,NA,other,NA,2022-10-24
+Oliver,Dempsey,5685,Geelong Cats,2022,28,MEDIUM_FORWARD,CD_I1025034,2003-01-07,2021,185,70,Boroondara (Vic)/Carey Grammar (Vic)/Old Carey (Vic),2022,rookieElevation,15,2022-10-24
+Joel,Selwood,225,Geelong Cats,2022,14,MIDFIELDER,CD_I250321,1988-05-26,2006,183,84,Sandhurst (Vic)/Bendigo U18,2007,nationalDraft,7,2022-10-24
+Shaun,Higgins,685,Geelong Cats,2022,4,MEDIUM_FORWARD,CD_I260227,1988-03-04,2005,184,89,"Newtown &amp; Chilwell (Vic)/St Joseph&apos;s Coll, Geel (Vic)/Geel U18/WB/NM",2006,nationalDraft,11,2022-10-24
+Tom,Hawkins,285,Geelong Cats,2022,26,KEY_FORWARD,CD_I261510,1988-07-21,2006,198,104,Finley (NSW)/Melbourne Grammar (Vic)/Sandringham U18,2007,fatherSon,41,2022-10-24
+Patrick,Dangerfield,10,Geelong Cats,2022,35,MIDFIELDER,CD_I270917,1990-04-05,2007,189,97,Anglesea (Vic)/Geelong U18/Adelaide,2008,nationalDraft,10,2022-10-24
+Rhys,Stanley,668,Geelong Cats,2022,1,RUCK,CD_I280317,1990-12-01,2008,200,102,Berri (SA)/West Adelaide (SANFL)/St Kilda,2010,nationalDraft,47,2022-10-24
+Mitch,Duncan,326,Geelong Cats,2022,22,MEDIUM_DEFENDER,CD_I281065,1991-06-10,2009,188,85,Carine (WA)/East Perth (WAFL),2010,nationalDraft,28,2022-10-24
+Cameron,Guthrie,452,Geelong Cats,2022,29,MIDFIELDER,CD_I290550,1992-08-19,2010,187,88,Sunbury (Vic)/Calder U18,2011,nationalDraft,23,2022-10-24
+Jonathon,Ceglar,432,Geelong Cats,2022,15,RUCK,CD_I291327,1991-02-14,2010,204,99,Wodonga Raiders (Vic)/Murray U18/Collingwood List/Hawthorn,2013,other,NA,2022-10-24
+Gary,Rohan,636,Geelong Cats,2022,23,MEDIUM_FORWARD,CD_I291357,1991-06-07,2009,189,93,Cobden (Vic)/Geelong U18/Sydney,2010,nationalDraft,6,2022-10-24
+Luke,Dahlhaus,764,Geelong Cats,2022,40,MEDIUM_FORWARD,CD_I291526,1992-08-21,2011,179,82,Leopold (Vic)/Geelong U18/Western Bulldogs,2011,rookieElevation,70,2022-10-24
+Tom,Stewart,1322,Geelong Cats,2022,44,MEDIUM_DEFENDER,CD_I291800,1993-03-15,2016,190,88,South Barwon (Vic)/Geelong U18/Geelong (VFL),2017,nationalDraft,40,2022-10-24
+Zach,Tuohy,73,Geelong Cats,2022,2,MEDIUM_DEFENDER,CD_I292511,1989-12-10,2012,187,91,County Laois (Ireland)/Carlton,2011,rookieElevation,102,2022-10-24
+Jeremy,Cameron,223,Geelong Cats,2022,5,KEY_FORWARD,CD_I293845,1993-04-01,2011,196,94,Dartmoor (Vic)/North Ballarat U18/GWS,2012,other,NA,2022-10-24
+Jed,Bews,464,Geelong Cats,2022,24,MEDIUM_DEFENDER,CD_I293883,1993-12-14,2011,186,92,Leopold (Vic)/Geelong U18,2014,fatherSon,86,2022-10-24
+Sam,Menegola,174,Geelong Cats,2022,27,MIDFIELDER,CD_I294199,1992-03-07,2015,189,89,Attadale (WA)/E Frem (WAFL)/Haw Rks/Frem Rks/Subiaco (WAFL),2016,nationalDraft,66,2022-10-24
+Isaac,Smith,256,Geelong Cats,2022,7,MIDFIELDER_FORWARD,CD_I294877,1988-12-30,2010,188,83,Wagga Tigers (NSW)/NSW-ACT U18/Redan (Vic)/N Ballarat (VFL)/Haw,2011,nationalDraft,19,2022-10-24
+Jake,Kolodjashnij,373,Geelong Cats,2022,8,KEY_DEFENDER,CD_I296291,1995-08-09,2013,193,96,Prospect (Tas)/Launceston (Tas),2015,nationalDraft,41,2022-10-24
+Mark,Blicavs,296,Geelong Cats,2022,46,RUCK,CD_I296733,1991-03-28,2014,198,101,Sunbury (Vic),2013,rookieElevation,NA,2022-10-24
+Brandan,Parfitt,1309,Geelong Cats,2022,3,MIDFIELDER,CD_I298419,1998-04-27,2016,180,83,Nightcliff (NT)/NT Thunder (NEAFL)/North Adelaide (SANFL),2017,nationalDraft,26,2022-10-24
+Tom,Atkins,1846,Geelong Cats,2022,30,MEDIUM_DEFENDER,CD_I994386,1995-09-18,2018,180,82,St Joseph&apos;s Geel (Vic)/Geel College/Geel U18/Geelong (VFL),2019,rookieElevation,11,2022-10-24
+Tyson,Stengle,1376,Geelong Cats,2022,18,MEDIUM_FORWARD,CD_I997230,1998-10-19,2018,175,73,Portland (SA)/W-WT (SANFL)/Richmond/Adelaide/W-WT (SANFL),2017,other,NA,2022-10-24
+Brad,Close,3720,Geelong Cats,2022,45,MEDIUM_FORWARD,CD_I999326,1998-07-30,2019,181,71,North Gambier (SA)/Glenelg (SANFL),2020,rookieElevation,14,2022-10-24
+Quinton,Narkle,1393,Geelong Cats,2022,19,MIDFIELDER,CD_I999824,1997-12-03,2016,182,88,Maddington (WA)/Wesley College (WA)/Perth (WAFL),2018,nationalDraft,60,2022-10-24
+Jack,Higgins,1573,St Kilda,2022,22,MEDIUM_FORWARD,CD_I1002227,1999-03-19,2017,178,80,East Malvern (Vic)/Oakleigh U18/Richmond,2018,nationalDraft,17,2022-10-24
+Hunter,Clark,1716,St Kilda,2022,11,MEDIUM_DEFENDER,CD_I1002264,1999-03-26,2017,186,80,Mornington (Vic)/Padua College (Vic)/Dandenong U18,2018,nationalDraft,7,2022-10-24
+Jack,Bytel,1941,St Kilda,2022,23,MIDFIELDER,CD_I1002922,2000-03-14,2018,189,82,Aberfeldie (Vic)/Calder U18,2020,nationalDraft,41,2022-10-24
+Darragh,Joyce,1368,St Kilda,2022,39,KEY_DEFENDER,CD_I1003520,1997-04-23,2016,194,95,County Kilkenny (Ireland),2018,other,NA,2022-10-24
+Ben,Paton,1765,St Kilda,2022,33,MEDIUM_DEFENDER,CD_I1004985,1998-10-19,2017,186,81,Mitta United (Vic)/North Albury (NSW)/Murray U18,2018,nationalDraft,46,2022-10-24
+Nick,Coffield,1707,St Kilda,2022,1,MEDIUM_DEFENDER,CD_I1005717,1999-10-23,2017,191,88,Eltham (Vic)/Northern U18,2018,nationalDraft,8,2022-10-24
+Max,King,1950,St Kilda,2022,12,KEY_FORWARD,CD_I1006143,2000-07-07,2018,202,94,East Sandr (Vic)/Old Haileybury (Vic)/H&apos;bury Coll (Vic)/Sandr U18,2020,nationalDraft,4,2022-10-24
+Leo,Connolly,2267,St Kilda,2022,37,MEDIUM_DEFENDER,CD_I1009228,2001-08-07,2019,181,77,Moe (Vic)/Lowanna College (Vic)/Gippsland U18,2021,nationalDraft,64,2022-10-24
+Ryan,Byrnes,2986,St Kilda,2022,13,MIDFIELDER_FORWARD,CD_I1011994,2001-05-03,2019,181,82,Beaumaris (Vic)/St Bede&apos;s College (Vic)/Sandringham U18,2020,nationalDraft,52,2022-10-24
+Nasiah,Wanganeen-Milera,5694,St Kilda,2022,7,MIDFIELDER,CD_I1015507,2003-02-22,2021,187,79,Marion (SA)/Glenelg (SANFL),2022,nationalDraft,11,2022-10-24
+Oscar,Adams,5695,St Kilda,2022,27,RUCK,CD_I1015515,2003-07-23,2021,197,83,South Gambier (SA)/Glenelg (SANFL),NA,nationalDraft,51,2022-10-24
+Matthew,Allison,2334,St Kilda,2022,30,KEY_FORWARD,CD_I1015714,2002-01-29,2020,195,87,Strathmore (Vic)/St Bernard&apos;s College (Vic)/Calder U18,NA,nationalDraft,26,2022-10-24
+Max,Heath,3033,St Kilda,2022,42,RUCK,CD_I1015886,2002-10-24,2021,204,93,Beaumaris (Vic)/Xavier College (Vic)/Sandringham U18,NA,other,7,2022-10-24
+Josiah,Kyle,5061,St Kilda,2022,46,MEDIUM_FORWARD,CD_I1017388,2003-07-31,2021,185,72,Carrum Downs (Vic)/SEDA College (Vic)/Dandenong U18,NA,other,NA,2022-10-24
+Jack,Peris,5241,St Kilda,2022,45,MIDFIELDER,CD_I1017932,2003-12-17,2021,178,69,Nightcliff (NT)/Prahran (Vic)/Melbourne Grammar (Vic)/Sandr U18,NA,other,NA,2022-10-24
+Cooper,Sharman,3028,St Kilda,2022,43,KEY_FORWARD,CD_I1018018,2000-07-25,2021,193,86,Leeton-Whitton (NSW)/Balwyn (Vic)/Oak U18/W-W Torrens (SANFL),2021,other,21,2022-10-24
+Marcus,Windhager,5282,St Kilda,2022,17,MIDFIELDER_FORWARD,CD_I1023270,2003-05-16,2021,185,86,Beaumaris (Vic)/Haileybury College (Vic)/Sandringham U18,2022,nationalDraft,47,2022-10-24
+Mitch,Owens,5305,St Kilda,2022,24,MIDFIELDER_FORWARD,CD_I1023272,2003-09-24,2021,191,85,Beaumaris (Vic)/Mentone Grammar (Vic)/Sandringham U18,2022,nationalDraft,33,2022-10-24
+Paddy,Ryder,209,St Kilda,2022,18,RUCK,CD_I250267,1988-03-14,2005,197,96,"Rovers, Geraldton (WA)/East Fremantle (WAFL)/Ess/PA",2006,nationalDraft,7,2022-10-24
+Jarryn,Geary,802,St Kilda,2022,14,MEDIUM_DEFENDER,CD_I260113,1988-06-23,2007,183,79,Eaglehawk (Vic)/Bendigo U18,2008,rookieElevation,NA,2022-10-24
+Dan,Hannebery,446,St Kilda,2022,10,MIDFIELDER,CD_I290117,1991-02-24,2008,181,79,Kew Rovers (Vic)/Xavier College (Vic)/Oakleigh U18/Sydney,2009,nationalDraft,30,2022-10-24
+Tom,Campbell,693,St Kilda,2022,38,RUCK,CD_I290246,1991-11-02,2012,201,105,Wesley Coll (Vic)/Sandr U18/Old Scotch (Vic)/Bendigo (VFL)/WB/NM,2012,rookieElevation,98,2022-10-24
+Jimmy,Webster,628,St Kilda,2022,29,MEDIUM_DEFENDER,CD_I290757,1993-06-28,2011,188,80,Brighton (Tas)/Glenorchy (Tas),2013,nationalDraft,42,2022-10-24
+Sebastian,Ross,794,St Kilda,2022,6,MIDFIELDER,CD_I293846,1993-05-07,2011,187,85,Horsham Demons (Vic)/North Ballarat U18,2012,nationalDraft,25,2022-10-24
+Jarrod,Lienert,1346,St Kilda,2022,31,KEY_DEFENDER,CD_I293987,1994-08-05,2021,195,89,Murray Bridge Imperials (SA)/Sturt (SANFL)/Port Adelaide,2018,preseason,NA,2022-10-24
+Brad,Crouch,57,St Kilda,2022,5,MIDFIELDER,CD_I294307,1994-01-14,2012,186,86,Beaufort (Vic)/North Ballarat U18/Adelaide,2013,other,2,2022-10-24
+Dean,Kent,365,St Kilda,2022,25,MEDIUM_FORWARD,CD_I294570,1994-02-24,2012,181,83,Federals (WA)/Perth (WAFL)/Melbourne,2013,nationalDraft,48,2022-10-24
+Tim,Membrey,836,St Kilda,2022,28,KEY_FORWARD,CD_I294596,1994-05-26,2012,188,90,Traralgon (Vic)/Gippsland U18/Sydney,2014,nationalDraft,46,2022-10-24
+Mason,Wood,547,St Kilda,2022,32,MIDFIELDER,CD_I295340,1993-09-13,2012,192,85,Geelong Amateur (Vic)/Geelong College (Vic)/Geelong U18/NM,2014,nationalDraft,41,2022-10-24
+Bradley,Hill,482,St Kilda,2022,8,MEDIUM_DEFENDER,CD_I295584,1993-07-09,2011,182,81,Quinns District (WA)/West Perth (WAFL)/Hawthorn/Fremantle,2012,nationalDraft,33,2022-10-24
+Jack,Steele,868,St Kilda,2022,9,MIDFIELDER,CD_I296205,1995-12-13,2014,187,88,Belconnen (NEAFL)/NSW-ACT U18/GWS,2015,nationalDraft,24,2022-10-24
+Jack,Billings,722,St Kilda,2022,15,MIDFIELDER,CD_I296351,1995-08-18,2013,185,80,Kew Comets (Vic)/Scotch College (Vic)/Oakleigh U18,2014,nationalDraft,3,2022-10-24
+Callum,Wilkie,1855,St Kilda,2022,44,MEDIUM_DEFENDER,CD_I296422,1996-03-10,2018,191,87,Walkerville (SA) /North Adelaide (SANFL),2019,rookieElevation,3,2022-10-24
+Daniel,McKenzie,996,St Kilda,2022,36,MIDFIELDER,CD_I298265,1996-05-17,2014,184,81,Blackburn (Vic)/Caulfield Grammar (Vic)/Oakleigh U18,2015,nationalDraft,22,2022-10-24
+Jade,Gresham,1127,St Kilda,2022,4,MIDFIELDER_FORWARD,CD_I298421,1997-08-24,2015,177,81,South Morang (Vic)/Parade College (Vic)/Northern U18,2016,nationalDraft,18,2022-10-24
+Jack,Hayes,6181,St Kilda,2022,47,KEY_FORWARD,CD_I990840,1996-03-06,2021,194,92,Brinkworth Spalding Redhill (SA)/Woodville-West Torrens (SANFL),2022,preseason,NA,2022-10-24
+Zak,Jones,765,St Kilda,2022,3,MIDFIELDER,CD_I991988,1995-03-15,2013,182,79,Mt Eliza (Vic)/Dandenong U18/Sydney,2014,nationalDraft,15,2022-10-24
+Dan,Butler,1036,St Kilda,2022,16,MEDIUM_FORWARD,CD_I992374,1996-06-03,2014,182,81,Lake Wendouree (Vic)/North Ballarat U18/Richmond,2017,nationalDraft,67,2022-10-24
+Rowan,Marshall,1410,St Kilda,2022,19,RUCK,CD_I992468,1995-11-24,2016,201,105,Heathmere (Vic)/North Ballarat U18/North Ballarat (VFL),2017,rookieElevation,10,2022-10-24
+Dougal,Howard,998,St Kilda,2022,20,KEY_DEFENDER,CD_I993480,1996-03-25,2014,199,94,Wagga Tigers (NSW)/Murray U18/Port Adelaide,2016,nationalDraft,56,2022-10-24
+Ben,Long,1408,St Kilda,2022,21,MEDIUM_FORWARD,CD_I993917,1997-08-21,2016,183,81,St Mary&apos;s (NT)/NT Thunder (NEAFL)/Melb Gram (Vic)/Nthrn U18/Foots (VFL),2017,nationalDraft,25,2022-10-24
+Jack,Sinclair,1072,St Kilda,2022,35,MEDIUM_DEFENDER,CD_I994389,1995-02-12,2015,181,82,Kew Comets (Vic)/Old Scotch (Vic)/Oakleigh U18,2015,rookieElevation,NA,2022-10-24
+Josh,Battle,1412,St Kilda,2022,26,KEY_DEFENDER,CD_I998134,1998-09-01,2016,193,92,Doveton (Vic)/Haileybury College (Vic)/Dandenong U18,2017,nationalDraft,39,2022-10-24
+Tom,Highmore,4073,St Kilda,2022,34,KEY_DEFENDER,CD_I998195,1998-02-24,2020,193,86,Canberra (ACT)/Marist College (ACT)/South Adelaide (SANFL),2021,nationalDraft,45,2022-10-24
+Jordan,Ridley,1288,Essendon,2022,14,KEY_DEFENDER,CD_I1001026,1998-10-20,2016,195,93,East Burwood (Vic)/Oakleigh U18,2018,nationalDraft,22,2022-10-24
+Brandon,Zerk-Thatcher,1469,Essendon,2022,30,KEY_DEFENDER,CD_I1004034,1998-08-25,2017,195,89,Imperial Murray Bridge (SA)/Sturt (SANFL),2019,nationalDraft,66,2022-10-24
+Massimo,D'Ambrosio,4349,Essendon,2022,42,MEDIUM_DEFENDER,CD_I1005144,2003-06-05,NA,178,80,NA,NA,NA,NA,2022-10-24
+Sam,Draper,1296,Essendon,2022,2,RUCK,CD_I1005577,1998-09-28,2016,205,105,Reynella (SA)/South Adelaide (SANFL),2020,rookieElevation,1,2022-10-24
+Jye,Caldwell,1834,Essendon,2022,6,MIDFIELDER,CD_I1006103,2000-09-28,2018,183,83,Golden Square (Vic)/Geelong Grammar (Vic)/Bendigo U18/GWS,2019,nationalDraft,11,2022-10-24
+Brayden,Ham,1828,Essendon,2022,33,MIDFIELDER_FORWARD,CD_I1008190,1999-04-25,2018,182,79,St Mary&apos;s Geelong (Vic)/Geelong U18,2019,nationalDraft,72,2022-10-24
+Kaine,Baldwin,4312,Essendon,2022,26,KEY_FORWARD,CD_I1008975,2002-05-30,2020,193,95,Henley (SA)/Westminster School (SA)/Glenelg (SANFL),2022,preseason,NA,2022-10-24
+Harrison,Jones,2242,Essendon,2022,23,KEY_FORWARD,CD_I1011755,2001-02-25,2019,196,88,Gisborne (Vic)/PEGS (Vic)/Calder U18,2021,nationalDraft,30,2022-10-24
+Nick,Bryan,2692,Essendon,2022,24,RUCK,CD_I1011954,2001-10-22,2019,203,101,Glen Iris (Vic)/St Kevin&apos;s College (Vic)/Oakleigh U18,2021,nationalDraft,38,2022-10-24
+Nic,Martin,6178,Essendon,2022,37,MEDIUM_FORWARD,CD_I1012013,2001-04-03,2021,192,82,Noranda (WA)/Subiaco (WAFL),2022,preseason,NA,2022-10-24
+Tex,Wanganeen,5205,Essendon,2022,40,MEDIUM_FORWARD,CD_I1012521,2003-10-10,2021,179,78,Sturt U16 (SANFL)/Prince Alfred College (SA)Xavier College (Vic),2022,preseason,NA,2022-10-24
+Zach,Reid,2612,Essendon,2022,31,KEY_DEFENDER,CD_I1012817,2002-03-02,2020,202,90,Leongatha (Vic)/(Gippsland U18,2021,nationalDraft,10,2022-10-24
+Cody,Brand,2360,Essendon,2022,38,KEY_DEFENDER,CD_I1012837,2002-05-23,2020,195,92,Sunbury (Vic)/PEGS (Vic)/Calder U18,NA,nationalDraft,53,2022-10-24
+Jye,Menzie,3367,Essendon,2022,47,MEDIUM_FORWARD,CD_I1013201,2002-10-28,2022,180,81,North Hobart (Tas)/South Adelaide (SANFL),2022,other,15,2022-10-24
+Alastair,Lord,5678,Essendon,2022,28,MEDIUM_DEFENDER,CD_I1015369,2003-11-26,2021,181,75,Athelstone (SA)/Rostrevor College (SA)/Norwood (SANFL),2022,nationalDraft,46,2022-10-24
+Josh,Eyre,2546,Essendon,2022,32,KEY_DEFENDER,CD_I1015712,2002-10-24,2020,198,93,Kilmore (Vic)/Assumption College(Vic)/Calder U18,NA,nationalDraft,39,2022-10-24
+Sam,Durham,3075,Essendon,2022,22,MIDFIELDER,CD_I1015810,2001-07-09,2021,185,84,Seymour (Vic)/Murray U18/Richmond (VFL),2021,other,9,2022-10-24
+Nik,Cox,2843,Essendon,2022,13,MIDFIELDER,CD_I1015827,2002-01-15,2020,200,94,Montmorency (Vic)/Ivanhoe Grammar (Vic)/Northern U18,2021,nationalDraft,8,2022-10-24
+Archie,Perkins,3299,Essendon,2022,16,MIDFIELDER_FORWARD,CD_I1015873,2002-03-26,2020,188,80,Old Brighton (Vic)/Brighton Grammar (Vic)/Sandringham U18,2021,nationalDraft,9,2022-10-24
+Ben,Hobbs,2829,Essendon,2022,8,MEDIUM_FORWARD,CD_I1017088,2003-09-16,2021,183,79,Horsham Demons (Vic)/Ballarat Clarendon College (Vic)/GWV U18,2022,nationalDraft,13,2022-10-24
+Patrick,Voss,5232,Essendon,2022,39,KEY_FORWARD,CD_I1017754,2003-06-29,2021,194,93,Turvey Park (NSW)/Wesley College (Vic)/Oakleigh U18,NA,rookieElevation,11,2022-10-24
+Cian,McBride,3744,Essendon,2022,41,RUCK,CD_I1018969,2001-04-19,2019,197,90,County Meath (Ireland),NA,other,NA,2022-10-24
+Tom,Hird,4008,Essendon,2022,49,MIDFIELDER_FORWARD,CD_I1020224,2001-03-28,2019,182,76,Prahran (Vic)/Melbourne Grammar (Vic),NA,other,NA,2022-10-24
+Michael,Hurley,160,Essendon,2022,18,KEY_FORWARD,CD_I270935,1990-06-01,2008,193,94,Macleod (Vic)/Northern U18,2009,nationalDraft,5,2022-10-24
+Dyson,Heppell,159,Essendon,2022,21,MEDIUM_DEFENDER,CD_I290629,1992-05-14,2010,189,87,Leongatha (Vic)/Gippsland U18,2011,nationalDraft,8,2022-10-24
+Devon,Smith,508,Essendon,2022,5,MEDIUM_FORWARD,CD_I291771,1993-05-20,2011,176,78,Lara (Vic)/Geelong U18/GWS,2012,nationalDraft,14,2022-10-24
+Dylan,Shiel,297,Essendon,2022,9,MIDFIELDER,CD_I291783,1993-03-09,2011,182,84,Edithvale-Aspendale (Vic)/Caulfield Gram (Vic)/Dande U18/GWS,2012,other,NA,2022-10-24
+Jake,Stringer,792,Essendon,2022,25,KEY_FORWARD,CD_I293884,1994-04-25,2012,192,90,Eaglehawk (Vic)/Bendigo U18/Western Bulldogs,2013,nationalDraft,5,2022-10-24
+Andrew,Phillips,313,Essendon,2022,34,RUCK,CD_I294068,1991-07-03,2012,201,101,Lauderdale (Tas)/Tasmania U18/GWS/Carlton,2012,rookieElevation,97,2022-10-24
+Anthony,McDonald-Tipungwuti,910,Essendon,2022,43,MEDIUM_FORWARD,CD_I294092,1993-04-22,2016,171,78,Tiwi Bombers (NT)/Gippsland U18/Essendon (VFL),2016,rookieElevation,NA,2022-10-24
+James,Stewart,234,Essendon,2022,17,KEY_DEFENDER,CD_I294654,1994-03-04,2012,199,99,Glen Iris (Vic)/Scotch College (Vic)/Sandr U18/GWS,2013,nationalDraft,27,2022-10-24
+Tom,Cutler,149,Essendon,2022,12,MIDFIELDER,CD_I297406,1995-02-20,2013,192,89,Greythorn (Vic)/Oakleigh U18/Brisbane,2014,nationalDraft,33,2022-10-24
+Nick,Hind,1868,Essendon,2022,19,MEDIUM_DEFENDER,CD_I297452,1994-08-19,2018,180,76,Clunes (Vic)/N Ball U18/East Point (Vic)/Keilor (Vic)/Ess (VFL)/St K,2019,nationalDraft,54,2022-10-24
+Jake,Kelly,206,Essendon,2022,29,MEDIUM_DEFENDER,CD_I297473,1995-01-21,2015,190,91,Mansfield (Vic)/Scotch College (Vic)/Oakleigh U18/Adelaide,2015,rookieElevation,NA,2022-10-24
+Jayden,Laverde,870,Essendon,2022,15,KEY_DEFENDER,CD_I298280,1996-04-12,2014,193,91,Keilor (Vic)/PEGS (Vic)/Western U18,2015,nationalDraft,20,2022-10-24
+Peter,Wright,903,Essendon,2022,20,KEY_FORWARD,CD_I298289,1996-09-08,2014,203,102,Moonee Valley (Vic)/Calder U18/Gold Coast,2015,nationalDraft,8,2022-10-24
+Alec,Waterman,957,Essendon,2022,45,MEDIUM_FORWARD,CD_I298445,1996-08-19,2014,182,89,Marist (WA)/Clare (WAFL)/E Perth (WAFL)/WCE List/Clare (WAFL),2021,fatherSon,76,2022-10-24
+Kyle,Langford,945,Essendon,2022,4,MIDFIELDER_FORWARD,CD_I298630,1996-12-01,2014,192,88,Macleod (Vic)/Ivanhoe Grammar (Vic)/Northern U18,2015,nationalDraft,17,2022-10-24
+Will,Snelling,963,Essendon,2022,11,MEDIUM_FORWARD,CD_I990606,1997-08-06,2019,175,79,Goodwood (SA)/West Adel (SA)/Port Adel/West Adel (SANFL),2016,other,7,2022-10-24
+Aaron,Francis,934,Essendon,2022,10,KEY_FORWARD,CD_I990816,1997-08-10,2015,193,92,Loxton North (SA)/West Adelaide (SANFL),2016,nationalDraft,6,2022-10-24
+Garrett,McDonagh,4975,Essendon,2022,36,MEDIUM_DEFENDER,CD_I992012,1996-06-19,2021,184,82,West Preston Lakeside (Vic)/Northern U18/N Blues (Vic)/Coburg (Vic)/Rich (VFL),NA,nationalDraft,50,2022-10-24
+Zach,Merrett,170,Essendon,2022,7,MIDFIELDER,CD_I992016,1995-10-03,2013,179,85,Cobden (Vic)/Melbourne Grammar (Vic)/Sandringham U18,2014,nationalDraft,26,2022-10-24
+Darcy,Parish,852,Essendon,2022,3,MIDFIELDER,CD_I993817,1997-07-25,2015,180,82,Winchelsea (Vic)/Geelong U18,2016,nationalDraft,5,2022-10-24
+Matt,Guelfi,1737,Essendon,2022,35,MEDIUM_FORWARD,CD_I996232,1997-08-14,2017,184,84,Wembley Downs (WA)/Claremont (WAFL),2018,nationalDraft,76,2022-10-24
+Mason,Redman,944,Essendon,2022,27,MEDIUM_DEFENDER,CD_I997078,1997-08-26,2015,187,86,Millicent (SA)/Glenelg (SANFL),2016,nationalDraft,30,2022-10-24
+Andrew,McGrath,1331,Essendon,2022,1,MIDFIELDER,CD_I998102,1998-06-02,2016,180,83,East Brighton (Vic)/Brighton Grammar (Vic)/Sandringham U18,2017,nationalDraft,1,2022-10-24
+James,Bell,1733,Sydney Swans,2022,32,MEDIUM_FORWARD,CD_I1002291,1999-02-10,2017,183,87,University of NSW-Eastern Suburbs (NSW),2019,other,NA,2022-10-24
+Hayden,McLean,1956,Sydney Swans,2022,2,KEY_FORWARD,CD_I1003203,1999-01-20,2018,197,98,Beaumaris (Vic)/St Bede&apos;s College (Vic)/Sandr U18/Sandr (VFL),2019,preseason,NA,2022-10-24
+Will,Gould,3737,Sydney Swans,2022,17,KEY_DEFENDER,CD_I1004113,2001-01-14,2019,191,97,Lucindale (SA)/Glenelg (SANFL),NA,nationalDraft,26,2022-10-24
+Dylan,Stephens,3734,Sydney Swans,2022,3,MIDFIELDER,CD_I1004848,2001-01-08,2019,184,78,Red Cliffs (Vic)/Walkerville (SA)/St Peter&apos;s Coll (SA)/Norwood (SANFL),2020,nationalDraft,5,2022-10-24
+Ben,Ronke,1350,Sydney Swans,2022,25,MEDIUM_FORWARD,CD_I1004880,1997-12-18,2016,183,80,St Bernard&apos;s (Vic)/Calder U18,2018,rookieElevation,17,2022-10-24
+Nick,Blakey,1948,Sydney Swans,2022,22,MEDIUM_DEFENDER,CD_I1006028,2000-02-27,2018,195,84,University of NSW-Eastern Suburbs (NSW),2019,nationalDraft,10,2022-10-24
+James,Rowbottom,1908,Sydney Swans,2022,8,MIDFIELDER,CD_I1006126,2000-09-19,2018,186,82,Camberwell (Vic)/St Kevin&apos;s College (Vic)/Oakleigh U18,2019,nationalDraft,25,2022-10-24
+Sam,Wicks,1903,Sydney Swans,2022,15,MEDIUM_FORWARD,CD_I1006232,1999-09-14,2018,180,81,Manly-Warringah (NSW)/Sydney (NEAFL),2020,other,NA,2022-10-24
+Joel,Amartey,1598,Sydney Swans,2022,36,KEY_FORWARD,CD_I1008091,1999-09-02,2017,197,100,Beaumaris (Vic)/Mentone Gram (Vic)/Sandringham U18,2020,rookieElevation,28,2022-10-24
+Tom,McCartin,1786,Sydney Swans,2022,30,KEY_DEFENDER,CD_I1008198,1999-12-30,2017,193,97,"St Joseph&apos;s, Geel (Vic)/St Joseph&apos;s Coll, Geel (Vic)/Geel Gram (Vic)/Geel U18",2018,nationalDraft,33,2022-10-24
+Justin,McInerney,1864,Sydney Swans,2022,27,MIDFIELDER,CD_I1011936,2000-08-18,2018,188,84,Banyule (Vic)/Marcellin College (Vic)/Northern U18,2019,nationalDraft,44,2022-10-24
+Chad,Warner,3735,Sydney Swans,2022,1,MIDFIELDER,CD_I1012014,2001-05-19,2019,181,82,Willetton (WA)/Aquinas College (WA)/East Fremantle (WAFL),2020,nationalDraft,39,2022-10-24
+Matt,Roberts,5696,Sydney Swans,2022,34,MIDFIELDER,CD_I1012210,2003-07-31,2021,184,84,Langhorne Creek (SA)/St Peter&apos;s Coll (SA)/South Adelaide (SANFL),2022,nationalDraft,34,2022-10-24
+Errol,Gulden,3336,Sydney Swans,2022,21,MIDFIELDER_FORWARD,CD_I1013128,2002-07-18,2020,176,78,UNSW-Eastern Suburbs (NSW),2021,nationalDraft,32,2022-10-24
+Braeden,Campbell,2941,Sydney Swans,2022,16,MEDIUM_DEFENDER,CD_I1013133,2002-02-04,2020,181,79,Pennant Hills (NSW),2021,nationalDraft,5,2022-10-24
+Marc,Sheather,3396,Sydney Swans,2022,33,MEDIUM_FORWARD,CD_I1013138,2002-06-11,2020,185,87,Pennant Hills (NSW),NA,other,NA,2022-10-24
+Logan,McDonald,4074,Sydney Swans,2022,6,KEY_FORWARD,CD_I1013230,2002-04-04,2020,196,92,Applecross (WA)/Aquinas College (WA)/Perth (WAFL),2021,nationalDraft,4,2022-10-24
+Lachlan,Rankin,5219,Sydney Swans,2022,41,MEDIUM_DEFENDER,CD_I1017115,2003-02-05,2021,184,73,Beverley Hills (Vic)/Caulfield Grammar (Vic)/Oakleigh U18,NA,nationalDraft,58,2022-10-24
+Corey,Warner,5697,Sydney Swans,2022,37,MIDFIELDER,CD_I1018424,2003-10-07,2021,182,71,Willetton JFC (WA)/East Fremantle (WAFL),NA,nationalDraft,40,2022-10-24
+Barry,O'Connor,3748,Sydney Swans,2022,35,KEY_DEFENDER,CD_I1019158,1998-06-26,2019,193,93,County Wexford (Ireland),NA,other,NA,2022-10-24
+Angus,Sheldrick,5698,Sydney Swans,2022,29,MEDIUM_FORWARD,CD_I1020339,2003-11-07,2021,179,88,Mosman Park (WA)/Christ Church Grammar (WA)/Claremont (WAFL),2022,nationalDraft,18,2022-10-24
+Lachlan,McAndrew,4951,Sydney Swans,2022,46,RUCK,CD_I1021200,2000-05-26,2021,209,101,St Augustine&apos;s Coll (NSW)/Manly Waringah (NSW)/Syd Swans (VFL),NA,other,12,2022-10-24
+Hugo,Hall-Kahan,5286,Sydney Swans,2022,45,MEDIUM_FORWARD,CD_I1023273,2003-09-22,2022,188,78,East Sandringham (Vic)/Hailebury College (Vic)/Old Haileybury (Vic)/Sandringham U18,NA,other,11,2022-10-24
+Lance,Franklin,625,Sydney Swans,2022,23,KEY_FORWARD,CD_I240399,1987-01-30,2004,199,106,Dowerin (WA)/Perth (WAFL)/Hawthorn,2005,nationalDraft,5,2022-10-24
+Josh P.,Kennedy,629,Sydney Swans,2022,12,MIDFIELDER,CD_I260382,1988-06-20,2006,188,95,East Sandr (Vic)/Xavier Coll (Vic)/Sandr U18/Hawthorn,2008,fatherSon,40,2022-10-24
+Sam,Reid,554,Sydney Swans,2022,20,KEY_FORWARD,CD_I290188,1991-12-27,2009,196,98,Wangaratta Rovers (Vic)/Murray U18,2010,nationalDraft,38,2022-10-24
+Dane,Rampe,727,Sydney Swans,2022,24,KEY_DEFENDER,CD_I290307,1990-06-02,2013,188,91,Williamstown (VFL)/Eastern Suburbs (NSW)/Uni of NSW (NSW),2013,rookieElevation,90,2022-10-24
+Luke,Parker,816,Sydney Swans,2022,26,MIDFIELDER,CD_I290778,1992-10-25,2010,183,88,Langwarrin (Vic)/Dandenong U18,2011,nationalDraft,40,2022-10-24
+Robbie,Fox,1351,Sydney Swans,2022,42,MEDIUM_DEFENDER,CD_I291848,1993-04-16,2016,185,84,Burnie Dockers (Tas)/Coburg (VFL),2017,rookieElevation,34,2022-10-24
+Harry,Cunningham,559,Sydney Swans,2022,7,MEDIUM_DEFENDER,CD_I291978,1993-12-06,2012,181,80,Turvey Park (NSW)/NSW-ACT U18/Wagga (NSW),2012,rookieElevation,107,2022-10-24
+Tom,Hickey,815,Sydney Swans,2022,31,RUCK,CD_I294266,1991-03-06,2010,202,97,Morningside (Qld)/Gold Coast/St Kilda/West Coast,2011,zone,NA,2022-10-24
+Callum,Sinclair,631,Sydney Swans,2022,18,RUCK,CD_I294737,1989-09-23,2014,199,98,Beaumaris (Vic)/Port Melb (VFL)/Subiaco (WAFL)/West Coast,2013,rookieElevation,NA,2022-10-24
+Jake,Lloyd,844,Sydney Swans,2022,44,MEDIUM_DEFENDER,CD_I295342,1993-09-20,2014,180,80,Horsham Demons (Vic)/North Ballarat U18,2014,rookieElevation,NA,2022-10-24
+Lewis,Taylor,133,Sydney Swans,2022,28,MIDFIELDER,CD_I296211,1995-02-17,2021,174,81,Terang-Mortlake (Vic)/Geelong U18/Brisbane,2014,rookieElevation,12,2022-10-24
+Sam,Naismith,621,Sydney Swans,2022,10,RUCK,CD_I298144,1992-07-16,2015,205,110,North Shore (NSW),2014,rookieElevation,NA,2022-10-24
+Paddy,McCartin,1041,Sydney Swans,2022,39,KEY_DEFENDER,CD_I298312,1996-04-19,2014,195,95,St Joseph&apos;s (Vic)/Geelong U18/St Kilda,2015,nationalDraft,1,2022-10-24
+Isaac,Heeney,966,Sydney Swans,2022,5,MEDIUM_FORWARD,CD_I298539,1996-05-05,2014,185,87,Cardiff (NSW),2015,nationalDraft,18,2022-10-24
+Callum,Mills,1133,Sydney Swans,2022,14,MIDFIELDER,CD_I993905,1997-04-02,2015,187,87,North Shore (NSW),2016,nationalDraft,3,2022-10-24
+Ryan,Clarke,1011,Sydney Swans,2022,4,MEDIUM_FORWARD,CD_I996442,1997-06-17,2015,186,83,Rowville (Vic)/Melbourne Grammar (Vic)/Eastern U18/North Melb,2016,nationalDraft,31,2022-10-24
+Lewis,Melican,1040,Sydney Swans,2022,43,KEY_DEFENDER,CD_I996743,1996-11-04,2017,194,100,Birregurra (Vic)/Geelong U18,2017,rookieElevation,NA,2022-10-24
+Tom,Papley,1135,Sydney Swans,2022,11,MEDIUM_FORWARD,CD_I996765,1996-07-13,2016,177,80,Bunyip (Vic)/Gippsland U18,2016,rookieElevation,NA,2022-10-24
+Will,Hayward,1413,Sydney Swans,2022,9,MEDIUM_FORWARD,CD_I997100,1998-10-26,2016,186,84,Walkerville (SA)/North Adelaide (SANFL),2017,nationalDraft,21,2022-10-24
+Peter,Ladhams,1371,Sydney Swans,2022,19,RUCK,CD_I997142,1998-01-14,2021,202,101,Modbury (SA)/Norwood (SANFL)/Port Adelaide,2019,other,NA,2022-10-24
+Colin,O'Riordan,977,Sydney Swans,2022,38,MEDIUM_DEFENDER,CD_I997842,1995-10-12,2017,186,87,County Tipperary (Ireland),2018,rookieElevation,NA,2022-10-24
+Oliver,Florent,1363,Sydney Swans,2022,13,MEDIUM_DEFENDER,CD_I998103,1998-07-22,2016,184,81,Beaumaris (Vic)/Mentone Grammar (Vic)/Sandringham U18,2017,nationalDraft,11,2022-10-24
+Lachie,Schultz,1803,Fremantle,2022,5,MEDIUM_FORWARD,CD_I1000860,1997-11-30,NA,178,84,NA,NA,NA,NA,2022-10-24
+Lloyd,Meek,1560,Fremantle,2022,22,RUCK,CD_I1000980,1998-04-22,NA,203,110,NA,NA,NA,NA,2022-10-24
+Andrew,Brayshaw,1684,Fremantle,2022,8,MIDFIELDER,CD_I1002232,1999-11-08,NA,185,86,NA,NA,NA,NA,2022-10-24
+Mitch,Crowden,1561,Fremantle,2022,12,MIDFIELDER,CD_I1002353,1999-04-28,NA,175,83,NA,NA,NA,NA,2022-10-24
+Luke,Valente,1918,Fremantle,2022,29,MIDFIELDER,CD_I1004850,2000-05-08,NA,186,85,NA,NA,NA,NA,2022-10-24
+Liam,Henry,3716,Fremantle,2022,23,MIDFIELDER_FORWARD,CD_I1005988,2001-08-28,NA,180,75,NA,NA,NA,NA,2022-10-24
+Jordan,Clark,1929,Fremantle,2022,6,MEDIUM_DEFENDER,CD_I1006152,2000-10-16,NA,185,84,NA,NA,NA,NA,2022-10-24
+Hayden,Young,2284,Fremantle,2022,26,MEDIUM_DEFENDER,CD_I1009256,2001-04-11,NA,189,88,NA,NA,NA,NA,2022-10-24
+Joel,Western,4058,Fremantle,2022,34,MEDIUM_FORWARD,CD_I1009401,2002-10-12,NA,175,70,NA,NA,NA,NA,2022-10-24
+Brandon,Walker,4060,Fremantle,2022,31,MEDIUM_DEFENDER,CD_I1009410,2002-10-17,NA,186,80,NA,NA,NA,NA,2022-10-24
+Caleb,Serong,2304,Fremantle,2022,3,MIDFIELDER,CD_I1009420,2001-02-09,NA,179,83,NA,NA,NA,NA,2022-10-24
+Sebit,Kuek,6979,Fremantle,2022,43,KEY_FORWARD,CD_I1012048,2000-11-11,NA,199,83,NA,NA,NA,NA,2022-10-24
+Josh,Treacy,2362,Fremantle,2022,35,KEY_FORWARD,CD_I1012819,2002-08-04,NA,195,98,NA,NA,NA,NA,2022-10-24
+Nathan,O'Driscoll,4059,Fremantle,2022,30,MIDFIELDER,CD_I1013220,2002-05-17,NA,188,82,NA,NA,NA,NA,2022-10-24
+Heath,Chapman,4061,Fremantle,2022,27,MEDIUM_DEFENDER,CD_I1013224,2002-01-31,NA,193,85,NA,NA,NA,NA,2022-10-24
+Sam,Sturt,1806,Fremantle,2022,1,MEDIUM_FORWARD,CD_I1013611,2000-05-12,NA,190,81,NA,NA,NA,NA,2022-10-24
+Matthew,Johnson,5679,Fremantle,2022,44,MIDFIELDER,CD_I1016825,2003-03-16,NA,192,78,NA,NA,NA,NA,2022-10-24
+Neil,Erasmus,5681,Fremantle,2022,28,MIDFIELDER,CD_I1020250,2003-12-02,NA,190,83,NA,NA,NA,NA,2022-10-24
+Jye,Amiss,5680,Fremantle,2022,24,KEY_FORWARD,CD_I1020594,2003-07-31,NA,196,83,NA,NA,NA,NA,2022-10-24
+Karl,Worner,4905,Fremantle,2022,40,MIDFIELDER,CD_I1021015,2002-06-16,NA,188,79,NA,NA,NA,NA,2022-10-24
+Eric,Benning,5682,Fremantle,2022,38,RUCK,CD_I1022889,2003-06-14,NA,195,83,NA,NA,NA,NA,2022-10-24
+David,Mundy,116,Fremantle,2022,16,MIDFIELDER,CD_I240052,1985-07-20,2003,192,93,Seymour (Vic)/Murray U18,2005,nationalDraft,19,2022-10-24
+Travis,Colyer,271,Fremantle,2022,33,MEDIUM_FORWARD,CD_I280988,1991-08-24,2009,173,74,Marist (WA)/Claremont (WAFL)/Essendon,2010,nationalDraft,26,2022-10-24
+Michael,Walters,332,Fremantle,2022,10,MEDIUM_FORWARD,CD_I281007,1991-01-07,2008,176,79,Midvale (WA)/Swan Districts (WAFL),2009,nationalDraft,53,2022-10-24
+Nat,Fyfe,349,Fremantle,2022,7,MIDFIELDER_FORWARD,CD_I291570,1991-09-18,2009,191,94,Lake Grace (WA)/Claremont (WAFL),2010,nationalDraft,20,2022-10-24
+Matt,Taberner,178,Fremantle,2022,20,KEY_FORWARD,CD_I293854,1993-06-17,2013,198,99,Myrtleford (Vic)/Murray U18,2013,rookieElevation,70,2022-10-24
+Nathan,Wilson,486,Fremantle,2022,14,MEDIUM_DEFENDER,CD_I294125,1993-01-07,2011,185,83,Mandurah Centrals (WA)/Peel Thunder (WAFL)/GWS,2012,other,NA,2022-10-24
+James,Aish,136,Fremantle,2022,11,MIDFIELDER,CD_I295067,1995-11-08,NA,183,83,NA,NA,NA,NA,2022-10-24
+Joel,Hamling,458,Fremantle,2022,21,KEY_DEFENDER,CD_I295222,1993-04-09,2011,194,92,Cable Beach (WA)/Claremont (WAFL)/Geelong List/WB,2015,nationalDraft,32,2022-10-24
+Blake,Acres,683,Fremantle,2022,9,MIDFIELDER,CD_I296294,1995-10-07,NA,189,92,NA,NA,NA,NA,2022-10-24
+Alex,Pearce,465,Fremantle,2022,25,KEY_DEFENDER,CD_I298409,1995-06-09,NA,201,99,NA,NA,NA,NA,2022-10-24
+Connor,Blakely,863,Fremantle,2022,19,MIDFIELDER,CD_I298450,1996-03-02,NA,189,89,NA,NA,NA,NA,2022-10-24
+Rory,Lobb,604,Fremantle,2022,37,KEY_FORWARD,CD_I990740,1993-02-09,NA,207,107,NA,NA,NA,NA,2022-10-24
+Sam,Switkowski,1699,Fremantle,2022,39,MEDIUM_FORWARD,CD_I992059,1996-11-20,NA,179,74,NA,NA,NA,NA,2022-10-24
+Darcy,Tucker,935,Fremantle,2022,18,MIDFIELDER_FORWARD,CD_I993816,1997-01-23,NA,185,85,NA,NA,NA,NA,2022-10-24
+Ethan,Hughes,877,Fremantle,2022,15,MIDFIELDER,CD_I996580,1994-12-07,NA,188,88,NA,NA,NA,NA,2022-10-24
+Brennan,Cox,1390,Fremantle,2022,36,KEY_DEFENDER,CD_I997033,1998-08-13,NA,195,100,NA,NA,NA,NA,2022-10-24
+Griffin,Logue,1312,Fremantle,2022,2,KEY_DEFENDER,CD_I997933,1998-04-13,NA,194,98,NA,NA,NA,NA,2022-10-24
+Will,Brodie,1397,Fremantle,2022,17,MIDFIELDER,CD_I998129,1998-08-23,NA,190,88,NA,NA,NA,NA,2022-10-24
+Sean,Darcy,1392,Fremantle,2022,4,RUCK,CD_I998145,1998-06-12,NA,203,110,NA,NA,NA,NA,2022-10-24
+Bailey,Banfield,1594,Fremantle,2022,41,MEDIUM_FORWARD,CD_I998180,1998-02-26,NA,190,88,NA,NA,NA,NA,2022-10-24
+Luke,Ryan,1311,Fremantle,2022,13,MEDIUM_DEFENDER,CD_I998659,1996-02-06,NA,186,92,NA,NA,NA,NA,2022-10-24
+Michael,Frederick,3718,Fremantle,2022,32,MEDIUM_FORWARD,CD_I999321,2000-05-17,NA,183,79,NA,NA,NA,NA,2022-10-24
+Isaac,Cumming,1386,GWS Giants,2022,13,MEDIUM_DEFENDER,CD_I1001396,1998-08-11,2016,188,84,North Broken Hill (NSW)/North Adelaide (SANFL)/WSU (NEAFL),2018,nationalDraft,20,2022-10-24
+Brent,Daniels,1740,GWS Giants,2022,16,MEDIUM_FORWARD,CD_I1002251,1999-03-09,2017,174,76,Nyah-Nyah West United (Vic)/Geelong Gram (Vic)/Bendigo U18,2018,nationalDraft,27,2022-10-24
+Jarrod,Brander,1637,GWS Giants,2022,31,MIDFIELDER_FORWARD,CD_I1002300,1999-02-11,2017,197,97,Wentworth (NSW)/Geelong Gram (Vic)/Bendigo U18/West Coast,2018,nationalDraft,13,2022-10-24
+Jacob,Wehr,4064,GWS Giants,2022,10,MIDFIELDER,CD_I1004530,1998-07-05,2021,184,75,Balaklava (SA)/Woodville-West Torrens (SANFL),2022,rookieElevation,28,2022-10-24
+Sam,Taylor,1698,GWS Giants,2022,15,KEY_DEFENDER,CD_I1005247,1999-05-05,2017,196,95,Upper Swan (WA)/Guilford Grammar (WA)/Swan Dists (WAFL),2018,nationalDraft,28,2022-10-24
+James,Peatling,2541,GWS Giants,2022,20,MEDIUM_FORWARD,CD_I1006013,2000-08-21,2021,185,78,Pennant Hills (NSW)/Sydney University (NSW)/GWS Giants (VFL),2021,other,8,2022-10-24
+Xavier,O'Halloran,1821,GWS Giants,2022,33,MIDFIELDER,CD_I1006135,2000-07-11,2018,186,87,St Bernard&apos;s (Vic)/St Bernard&apos;s College (Vic)/Western U18,2020,nationalDraft,22,2022-10-24
+Bobby,Hill,1835,GWS Giants,2022,37,MEDIUM_FORWARD,CD_I1006148,2000-02-09,2018,175,73,Northam Barons (WA)/Perth (WAFL),2019,nationalDraft,24,2022-10-24
+Jake,Stein,1387,GWS Giants,2022,42,KEY_DEFENDER,CD_I1007238,1994-01-17,2019,195,96,St Dominic&apos;s College Penrith (NSW),2019,rookieElevation,15,2022-10-24
+Connor,Idun,1812,GWS Giants,2022,39,MEDIUM_DEFENDER,CD_I1008083,2000-07-29,2018,191,91,Drysdale (Vic)/Christian College (Vic)/Geelong U18,2019,nationalDraft,61,2022-10-24
+Jake,Riccardi,3723,GWS Giants,2022,26,KEY_FORWARD,CD_I1008123,1999-11-07,2019,195,97,St Bernard&apos;s (Vic)/St Bernard&apos;s Coll (Vic)/Calder U18/Werribee (VFL),2020,nationalDraft,51,2022-10-24
+Kieren,Briggs,1811,GWS Giants,2022,32,RUCK,CD_I1008436,1999-10-06,2018,201,107,Pennant Hills (NSW),2021,nationalDraft,34,2022-10-24
+Leek,Aleer,5686,GWS Giants,2022,21,KEY_DEFENDER,CD_I1008691,2001-08-21,2021,195,85,Angle Vale (SA)/Central District (SANFL),2022,nationalDraft,15,2022-10-24
+Lachie,Ash,2524,GWS Giants,2022,7,MIDFIELDER,CD_I1009253,2001-06-21,2019,187,85,Shepparton Bears (Vic)/Notre Dame College (Vic)/Murray U18,2020,nationalDraft,4,2022-10-24
+Tom,Green,2617,GWS Giants,2022,12,MIDFIELDER,CD_I1009528,2001-01-23,2019,192,92,Eastlake (ACT)/Marist College (ACT)/GWS (NEAFL),2020,nationalDraft,10,2022-10-24
+Jack,Buckley,1591,GWS Giants,2022,44,KEY_DEFENDER,CD_I1009708,1997-12-17,2017,195,90,University of NSW-Eastern Suburbs (NSW),2020,other,NA,2022-10-24
+Tanner,Bruhn,2542,GWS Giants,2022,5,MIDFIELDER_FORWARD,CD_I1012805,2002-05-27,2020,183,80,Newtown &amp; Chilwell (Vic)/Geelong Grammar (Vic)/Geelong U18,2021,nationalDraft,12,2022-10-24
+Cameron,Fleeton,2384,GWS Giants,2022,29,KEY_DEFENDER,CD_I1012863,2002-06-17,2020,192,86,"Geelong West Giants (Vic)/St Joseph&apos;s Coll, Geel (Vic)/Geel U18",NA,nationalDraft,58,2022-10-24
+Callum M.,Brown,1809,GWS Giants,2022,46,KEY_FORWARD,CD_I1014038,2000-08-15,2018,188,92,County Derry (Ireland),2021,other,NA,2022-10-24
+Will,Shaw,2276,GWS Giants,2022,35,MEDIUM_FORWARD,CD_I1015688,2001-06-14,2020,181,71,Deniliquin (NSW)/Deniliquin High School (NSW)/Bendigo U18,NA,other,NA,2022-10-24
+Ryan,Angwin,2724,GWS Giants,2022,9,MEDIUM_FORWARD,CD_I1015777,2002-12-12,2020,185,80,Foster (Vic)/Gippsland U18,2022,nationalDraft,18,2022-10-24
+Conor,Stone,3030,GWS Giants,2022,18,MEDIUM_FORWARD,CD_I1015862,2002-04-22,2020,188,88,East Malvern (Vic)/St Kevin&apos;s College (Vic)/Oakleigh U18,2021,nationalDraft,15,2022-10-24
+Wade,Derksen,2886,GWS Giants,2022,45,KEY_FORWARD,CD_I1016140,2001-06-01,NA,196,92,NA,NA,NA,NA,2022-10-24
+Cooper,Hamilton,2444,GWS Giants,2022,43,MEDIUM_DEFENDER,CD_I1017093,2003-09-24,2021,184,85,Colbinabbin (Vic)/Caulfield Grammar (Vic)/Bendigo U18,2022,rookieElevation,13,2022-10-24
+Josh,Fahey,4884,GWS Giants,2022,34,MEDIUM_DEFENDER,CD_I1017751,2003-11-11,2021,187,76,Queanbeyan (ACT),NA,nationalDraft,42,2022-10-24
+Finn,Callaghan,5321,GWS Giants,2022,17,MIDFIELDER,CD_I1023266,2003-04-26,2021,192,86,Mordialloc-Braeside (Vic)/St Bede&apos;s College (Vic)/Sandringham U18,2022,nationalDraft,3,2022-10-24
+Matt,de Boer,383,GWS Giants,2022,24,MEDIUM_FORWARD,CD_I271015,1990-03-10,2010,189,88,Swanbourne (WA)/Claremont (WAFL)/Fremantle,2009,rookieElevation,100,2022-10-24
+Callan,Ward,457,GWS Giants,2022,8,MIDFIELDER,CD_I280109,1990-04-10,2007,187,83,Spotswood (Vic)/Western U18/Western Bulldogs,2008,nationalDraft,19,2022-10-24
+Phil,Davis,466,GWS Giants,2022,1,KEY_DEFENDER,CD_I280804,1990-08-30,2008,197,94,St Peter&apos;s College (SA)/North Adelaide (SANFL)/Adelaide,2010,nationalDraft,10,2022-10-24
+Lachlan,Keeffe,196,GWS Giants,2022,25,KEY_DEFENDER,CD_I290314,1990-04-14,2010,204,101,Marist College Brisbane (Qld)/Collingwood,2011,rookieElevation,92,2022-10-24
+Daniel,Lloyd,943,GWS Giants,2022,38,MEDIUM_FORWARD,CD_I290675,1992-02-18,2015,187,83,Killarney Vale (NSW),2017,rookieElevation,26,2022-10-24
+Adam,Kennedy,376,GWS Giants,2022,40,MEDIUM_DEFENDER,CD_I291509,1992-07-12,2011,184,80,Melton (Vic)/Western U18,2012,other,NA,2022-10-24
+Stephen,Coniglio,215,GWS Giants,2022,3,MIDFIELDER_FORWARD,CD_I291969,1993-12-15,2011,182,84,Upper Swan (WA)/Swan Districts (WAFL),2012,nationalDraft,2,2022-10-24
+Lachie,Whitfield,306,GWS Giants,2022,6,MIDFIELDER,CD_I294305,1994-07-18,2012,185,83,Mornington (Vic)/Dandenong U18,2013,nationalDraft,1,2022-10-24
+Nick,Haynes,577,GWS Giants,2022,19,MEDIUM_DEFENDER,CD_I295265,1992-05-18,2011,193,90,Frankston Bombers (Vic)/Dandenong U18,2012,nationalDraft,7,2022-10-24
+Toby,Greene,657,GWS Giants,2022,4,MEDIUM_FORWARD,CD_I295344,1993-09-25,2011,182,84,Ashburton (Vic)/Wesley College (Vic)/Oakleigh U18,2012,nationalDraft,11,2022-10-24
+Jesse,Hogan,391,GWS Giants,2022,23,KEY_FORWARD,CD_I296324,1995-02-12,2013,195,102,Marist (WA)/Claremont (WAFL)/Melbourne/Fremantle,2015,other,2,2022-10-24
+Josh,Kelly,528,GWS Giants,2022,22,MIDFIELDER,CD_I296347,1995-02-12,2013,182,83,East Brighton (Vic)/Sandringham U18,2014,nationalDraft,2,2022-10-24
+Braydon,Preuss,1010,GWS Giants,2022,11,RUCK,CD_I992644,1995-06-16,2016,206,113,Surfers Paradise (Qld)/Townsville (Qld)/North Melb/Melbourne,2017,rookieElevation,NA,2022-10-24
+Harry,Himmelberg,915,GWS Giants,2022,27,KEY_FORWARD,CD_I993107,1996-05-08,2015,195,94,Mangoplah-CUE (NSW)/NSW-ACT U18/Eastlake (NEAFL),2016,nationalDraft,16,2022-10-24
+Matt,Flynn,866,GWS Giants,2022,30,RUCK,CD_I993902,1997-09-13,2015,201,102,Narrandera (NSW)/NSW-ACT U18,2021,nationalDraft,41,2022-10-24
+Jacob,Hopper,918,GWS Giants,2022,2,MIDFIELDER,CD_I993903,1997-02-06,2015,187,88,Leeton-Whitton United (NSW)/North Ballarat U18,2016,nationalDraft,7,2022-10-24
+Tim,Taranto,1395,GWS Giants,2022,14,MIDFIELDER_FORWARD,CD_I998172,1998-01-28,2016,188,87,Mordialloc Braeside (Vic)/St Kevin&apos;s College (Vic)/Sandr U18,2017,nationalDraft,2,2022-10-24
+Harry,Perryman,1394,GWS Giants,2022,36,MIDFIELDER,CD_I998205,1998-12-19,2016,186,84,Collingullie-Glenfield Park (NSW)/NSW-ACT U18,2017,nationalDraft,14,2022-10-24
+Zach,Sproule,1396,GWS Giants,2022,28,KEY_FORWARD,CD_I998225,1998-05-12,2020,198,94,Albury (NSW)/Murray U18/NSW-ACT U18,2019,rookieElevation,24,2022-10-24
+Liam,Baker,1756,Richmond,2022,7,MEDIUM_DEFENDER,CD_I1000223,1998-01-27,2017,173,72,Lake Grace (WA)/West Perth (WAFL)/Subiaco (WAFL),2018,rookieElevation,18,2022-10-24
+Matthew,Parker,1939,Richmond,2022,37,MEDIUM_FORWARD,CD_I1000267,1996-01-25,2018,188,80,Melville (WA)/South Frem (WAFL)/St Kilda/South Frem (WAFL),2019,nationalDraft,47,2022-10-24
+Daniel,Rioli,919,Richmond,2022,17,MEDIUM_DEFENDER,CD_I1000981,1997-04-16,2015,179,77,St Mary&apos;s (NT)/East Point (Vic)/St Pat&apos;s Coll (Vic)/N Ball U18,2016,nationalDraft,15,2022-10-24
+Noah,Balta,1755,Richmond,2022,21,KEY_DEFENDER,CD_I1002245,1999-10-23,2017,194,102,Essendon Doutta Stars (Vic)/Calder U18,2019,nationalDraft,25,2022-10-24
+Ben,Miller,1572,Richmond,2022,46,KEY_DEFENDER,CD_I1002403,1999-08-31,2017,198,96,Railways Kalgoorlie (WA)/Subiaco (WAFL),2021,nationalDraft,63,2022-10-24
+Sydney,Stack,1842,Richmond,2022,44,MEDIUM_FORWARD,CD_I1002583,2000-04-28,2018,179,78,Federals (WA)/Perth (WAFL),2019,preseason,NA,2022-10-24
+Jack,Ross,1849,Richmond,2022,5,MIDFIELDER,CD_I1006133,2000-09-03,2018,187,87,Waverley Hawks (Vic)/Caulfield Grammar (Vic)/Oakleigh U18,2019,nationalDraft,43,2022-10-24
+Bigoa,Nyuon,2252,Richmond,2022,47,KEY_DEFENDER,CD_I1006193,2001-05-18,2021,197,93,Rowville (Vic)/Rowville Secondary College (Vic)/Dandenong U18,2022,rookieElevation,7,2022-10-24
+Riley,Collier-Dawkins,1857,Richmond,2022,26,MIDFIELDER,CD_I1008297,2000-02-03,2018,191,93,Waverley Blues (Vic)/Salesian College (Vic)/Oakleigh U18,2021,nationalDraft,20,2022-10-24
+Rhyan,Mansell,2855,Richmond,2022,31,MEDIUM_DEFENDER,CD_I1008478,2000-06-04,2020,180,76,North Launceston (Tas)/Woodville-West Torrens (SANFL),2021,preseason,NA,2022-10-24
+Thomson,Dow,2199,Richmond,2022,27,MIDFIELDER,CD_I1009226,2001-10-16,2019,183,79,Swan Hill (Vic)/Geelong Grammar (Vic)/Bendigo U18,2020,nationalDraft,21,2022-10-24
+Noah,Cumberland,2220,Richmond,2022,38,MEDIUM_FORWARD,CD_I1009308,2001-03-15,2019,183,80,Maroochydore (Qld)/Brisbane (NEAFL),2022,nationalDraft,43,2022-10-24
+Will,Martyn,2217,Richmond,2022,36,MEDIUM_DEFENDER,CD_I1009313,2001-03-29,2019,186,83,Aspley (NEAFL)/Brisbane (NEAFL),2021,nationalDraft,44,2022-10-24
+Maurice,Rioli,2778,Richmond,2022,49,MEDIUM_FORWARD,CD_I1009551,2002-09-01,2020,179,75,St Mary&apos;s (NT)/Scotch College (Vic)/Oakleigh U18,2021,nationalDraft,51,2022-10-24
+Hugo,Ralphsmith,2764,Richmond,2022,45,MEDIUM_DEFENDER,CD_I1011985,2001-11-09,2019,188,83,East Brighton (Vic)/Haileybury College (Vic)/Sandringham U18,2021,nationalDraft,46,2022-10-24
+Samson,Ryan,2245,Richmond,2022,32,RUCK,CD_I1012386,2000-12-09,2020,206,104,Sherwood (Qld),2021,nationalDraft,40,2022-10-24
+Sam,Banks,3427,Richmond,2022,41,MEDIUM_DEFENDER,CD_I1013197,2003-04-02,2021,187,71,Clarence (Tas)/Tasmania U18,NA,nationalDraft,29,2022-10-24
+Judson,Clarke,5068,Richmond,2022,42,MEDIUM_FORWARD,CD_I1017043,2003-10-17,2021,180,72,East Ringwood (Vic)/Yarra Valley Grammar (Vic)/Dandenong U18,2022,nationalDraft,30,2022-10-24
+Josh,Gibcus,5157,Richmond,2022,28,KEY_DEFENDER,CD_I1017059,2003-04-04,2021,196,87,"East Point (Vic)/St Patrick&apos;s College, Ballarat (Vic)/GWV U18",2022,nationalDraft,9,2022-10-24
+Tom,Brown,2877,Richmond,2022,30,MEDIUM_DEFENDER,CD_I1017086,2003-07-30,2021,186,77,Mooroopna (Vic)/Geelong Grammar (Vic)/Murray U18,NA,nationalDraft,17,2022-10-24
+Tyler,Sonsie,2717,Richmond,2022,40,MIDFIELDER_FORWARD,CD_I1017114,2003-01-27,2021,181,73,Lysterfield (Vic)/Rowville Secondary College (Vic)/Eastern U18,2022,nationalDraft,28,2022-10-24
+Jacob,Bauer,5516,Richmond,2022,43,KEY_FORWARD,CD_I1021152,2002-06-04,2022,192,85,Inner West (NSW)/North Adelaide (SANFL),NA,other,10,2022-10-24
+Mate,Colina,4072,Richmond,2022,39,RUCK,CD_I1021660,1999-05-20,2020,213,111,Doutta Stars (Vic)/Calder U18,NA,other,NA,2022-10-24
+Jack,Riewoldt,537,Richmond,2022,8,KEY_FORWARD,CD_I250395,1988-10-31,2006,193,92,Clarence (Tas)/Tasmania U18,2007,nationalDraft,13,2022-10-24
+Shane,Edwards,740,Richmond,2022,10,MIDFIELDER_FORWARD,CD_I260930,1988-10-25,2006,182,78,Golden Grove (SA)/North Adelaide (SANFL),2007,nationalDraft,26,2022-10-24
+Robbie,Tarrant,522,Richmond,2022,6,KEY_DEFENDER,CD_I270325,1989-04-25,2007,196,96,South Mildura (Vic)/Bendigo U18/North Melbourne,2010,nationalDraft,15,2022-10-24
+Trent,Cotchin,394,Richmond,2022,9,MIDFIELDER,CD_I270896,1990-04-07,2007,185,86,PEGS (Vic)/Northern U18,2008,nationalDraft,2,2022-10-24
+Dylan,Grimes,422,Richmond,2022,2,KEY_DEFENDER,CD_I280819,1991-07-16,2009,194,91,Hurstbridge (Vic)/Northern U18,2010,preseason,2,2022-10-24
+Kane,Lambert,916,Richmond,2022,23,MEDIUM_FORWARD,CD_I290032,1991-11-26,2015,178,77,Preston (Vic)/Northern U18/Northern Blues (VFL)/W&apos;town (VFL),2015,rookieElevation,NA,2022-10-24
+Josh,Caddy,292,Richmond,2022,22,MIDFIELDER,CD_I290623,1992-09-28,2010,186,87,Eltham (Vic)/Northern U18/Gold Coast/Geelong,2011,nationalDraft,7,2022-10-24
+Dion,Prestia,460,Richmond,2022,3,MIDFIELDER,CD_I290627,1992-10-12,2010,175,82,West Lalor (Vic)/Assumption Coll (Vic)/Calder U18/Gold Coast,2011,nationalDraft,9,2022-10-24
+Dustin,Martin,564,Richmond,2022,4,MIDFIELDER_FORWARD,CD_I290847,1991-06-26,2009,187,92,Castlemaine (Vic)/Bendigo U18,2010,nationalDraft,3,2022-10-24
+Tom J.,Lynch,472,Richmond,2022,19,KEY_FORWARD,CD_I293813,1992-10-31,2010,199,99,Sorrento (Vic)/Dandenong U18/Gold Coast,2011,nationalDraft,11,2022-10-24
+Kamdyn,McIntosh,445,Richmond,2022,33,MIDFIELDER,CD_I294592,1994-04-03,2012,191,92,Pinjarra (WA)/Peel Thunder (WAFL),2015,nationalDraft,31,2022-10-24
+Nick,Vlastuin,444,Richmond,2022,1,MEDIUM_DEFENDER,CD_I294674,1994-04-19,2012,187,87,Eltham (Vic)/Northern U18,2013,nationalDraft,9,2022-10-24
+Nathan,Broad,1032,Richmond,2022,35,MEDIUM_DEFENDER,CD_I295203,1993-04-15,2015,192,87,Upper Swan (WA)/Swan Districts (WAFL),2016,nationalDraft,67,2022-10-24
+Toby,Nankervis,790,Richmond,2022,25,RUCK,CD_I298174,1994-08-12,2013,199,102,Georgetown (Tas)/North Launceston (Tas)/Sydney,2015,nationalDraft,35,2022-10-24
+Jack,Graham,1325,Richmond,2022,34,MIDFIELDER_FORWARD,CD_I990827,1998-02-25,2016,181,83,Tea Tree Gully (SA)/North Adelaide (SANFL),2017,nationalDraft,53,2022-10-24
+Jason,Castagna,1126,Richmond,2022,11,MEDIUM_FORWARD,CD_I991933,1996-07-12,2017,182,82,Warrandyte (Vic)/Marcellin College (Vic)/Northern U18,2016,rookieElevation,NA,2022-10-24
+Jayden,Short,964,Richmond,2022,15,MIDFIELDER,CD_I992049,1996-01-24,2016,178,76,Bundoora (Vic)/Northern U18,2016,rookieElevation,NA,2022-10-24
+Jake,Aarts,1867,Richmond,2022,16,MEDIUM_FORWARD,CD_I992786,1994-12-08,2018,177,76,Beaconsfield (Vic)/Bendigo (VFL)/Richmond (VFL),2020,rookieElevation,16,2022-10-24
+Marlion,Pickett,1966,Richmond,2022,50,MIDFIELDER,CD_I993771,1992-01-06,2019,184,81,Swan Districts (WAFL)/South Fremantle (WAFL),2019,other,13,2022-10-24
+Shai,Bolton,1407,Richmond,2022,29,MIDFIELDER_FORWARD,CD_I993993,1998-12-08,2016,175,77,Forrestdale (WA)/South Fremantle (WAFL),2017,nationalDraft,29,2022-10-24
+Ivan,Soldo,949,Richmond,2022,20,RUCK,CD_I998529,1996-04-14,2017,204,107,Northern U18,2017,rookieElevation,NA,2022-10-24
+Bayley,Fritsch,1520,Melbourne,2022,31,MEDIUM_FORWARD,CD_I1001438,1996-12-06,2017,188,84,Coldstream (Vic)/Casey (VFL),2018,nationalDraft,31,2022-10-24
+Charlie,Spargo,1742,Melbourne,2022,9,MEDIUM_FORWARD,CD_I1002282,1999-11-25,2017,173,76,Albury (NSW)/Murray U18,2018,nationalDraft,29,2022-10-24
+Joel,Smith,940,Melbourne,2022,44,MEDIUM_DEFENDER,CD_I1003546,1996-02-25,2017,191,88,Maribyrnong Park (Vic),2017,rookieElevation,NA,2022-10-24
+Kade,Chandler,1808,Melbourne,2022,37,MEDIUM_FORWARD,CD_I1005330,2000-01-13,2018,175,80,Western Utd (SA)/Prince Alfred College (SA)/Norwood (SANFL),2019,rookieElevation,15,2022-10-24
+Toby,Bedford,1839,Melbourne,2022,12,MEDIUM_FORWARD,CD_I1008139,2000-05-27,2018,179,75,Rosebud (Vic)/Melbourne Grammar (Vic)/Dandenong U18,2020,nationalDraft,75,2022-10-24
+Kysaiah,Pickett,3727,Melbourne,2022,36,MEDIUM_FORWARD,CD_I1008541,2001-06-02,2019,171,73,Port District (SA)/Prince Alfred Coll (SA)/Woodville-West Torrens (SANFL),2020,nationalDraft,12,2022-10-24
+Oskar,Baker,1739,Melbourne,2022,33,MIDFIELDER,CD_I1008855,1998-05-25,2017,184,87,Wilston Grange (Qld)/Aspley (NEAFL),2019,nationalDraft,48,2022-10-24
+Harrison,Petty,1590,Melbourne,2022,35,KEY_DEFENDER,CD_I1008893,1999-11-12,2017,197,93,Wudinna United (SA)/Rostrevor College (SA)/Norwood (SANFL),2018,nationalDraft,37,2022-10-24
+Deakyn,Smith,2422,Melbourne,2022,34,MEDIUM_DEFENDER,CD_I1009288,2002-08-22,2020,181,72,Doveton (Vic)/Caulfield Grammar (Vic)/Dandenong (U18),NA,preseason,NA,2022-10-24
+Trent,Rivers,3729,Melbourne,2022,24,MEDIUM_DEFENDER,CD_I1009378,2001-07-30,2019,188,91,Willetton (WA)/East Fremantle (WAFL),2020,nationalDraft,32,2022-10-24
+Luke,Jackson,3728,Melbourne,2022,6,RUCK,CD_I1009399,2001-09-29,2019,199,100,Bullcreek-Leeming (WA)/East Fremantle (WAFL),2020,nationalDraft,3,2022-10-24
+Jake,Bowey,3132,Melbourne,2022,17,MEDIUM_DEFENDER,CD_I1012825,2002-09-12,2020,176,72,Highett (Vic)/Sandringham U18,2021,nationalDraft,21,2022-10-24
+Bailey,Laurie,2805,Melbourne,2022,16,MIDFIELDER_FORWARD,CD_I1012826,2002-03-24,2020,179,81,Beverley Hills (Vic)/Caulfield Grammar (Vic)/Oakleigh U18,NA,nationalDraft,22,2022-10-24
+Fraser,Rosman,3388,Melbourne,2022,19,KEY_DEFENDER,CD_I1013086,2002-05-30,2020,194,84,East Malvern (Vic)/Wesley College (Vic)/Sandringham U18,NA,nationalDraft,34,2022-10-24
+Andy,Moniz-Wakefield,5472,Melbourne,2022,45,MEDIUM_FORWARD,CD_I1013165,2003-10-26,2021,182,71,Nightcliff (NT),NA,other,NA,2022-10-24
+James,Jordon,1813,Melbourne,2022,23,MIDFIELDER,CD_I1013409,2000-12-20,2018,187,82,Yarrawonga (Vic)/Caulfield Grammar (Vic)/Oakleigh U18,2021,nationalDraft,33,2022-10-24
+Blake,Howes,5236,Melbourne,2022,22,MIDFIELDER_FORWARD,CD_I1017122,2003-04-07,2021,191,79,Mordialloc-Braeside (Vic)/St Bede&apos;s Coll (Vic)/Sandringham U18,NA,nationalDraft,39,2022-10-24
+Judd,McVee,5688,Melbourne,2022,41,MEDIUM_DEFENDER,CD_I1017703,2003-08-07,2021,185,70,Geraldton (WA)/Geraldton Senior HS (WA)/East Fremantle (WAFL),NA,rookieElevation,18,2022-10-24
+Jacob,van Rooyen,5689,Melbourne,2022,21,KEY_FORWARD,CD_I1017720,2003-04-16,2021,193,91,Wembley Downs (WA)/Claremont (WAFL),NA,nationalDraft,19,2022-10-24
+Taj,Woewodin,5690,Melbourne,2022,40,MIDFIELDER,CD_I1018425,2003-03-26,2021,182,75,Booragoon (WA)/Aquinas College (WA)/East Fremantle (WAFL),NA,fatherSon,65,2022-10-24
+Daniel,Turner,5217,Melbourne,2022,42,KEY_DEFENDER,CD_I1020959,2002-01-28,2021,194,88,Albury (NSW)/Murray U18,2022,other,24,2022-10-24
+Jake,Melksham,137,Melbourne,2022,18,MEDIUM_FORWARD,CD_I280824,1991-08-29,2009,186,85,Oak Park (Vic)/PEGS (Vic)/Calder U18/Essendon,2010,nationalDraft,10,2022-10-24
+Steven,May,287,Melbourne,2022,1,KEY_DEFENDER,CD_I281085,1992-01-10,2010,193,101,Southern Districts (NT)/Melbourne Grammar (Vic)/NT U18/GCS,2011,zone,NA,2022-10-24
+Michael,Hibberd,139,Melbourne,2022,14,MEDIUM_DEFENDER,CD_I290160,1990-01-03,2010,186,94,Somerville (Vic)/Dandenong U18/Frankston (VFL)/Essendon,2011,preseason,4,2022-10-24
+Majak,Daw,589,Melbourne,2022,28,RUCK,CD_I290199,1991-03-11,2012,195,101,Wyndham Vale (Vic)/Western U18/North Melbourne,2013,rookieElevation,103,2022-10-24
+Max,Gawn,412,Melbourne,2022,11,RUCK,CD_I290528,1991-12-30,2009,209,111,Ormond (Vic)/Sandringham U18,2011,nationalDraft,34,2022-10-24
+Mitch,Brown,357,Melbourne,2022,38,KEY_FORWARD,CD_I290622,1990-08-28,2008,196,90,Cheltenham (Vic)/Ment Gram (Vic)/Sandr U18/Geel/Sandr (VFL)/Ess,2011,nationalDraft,15,2022-10-24
+Tom,McDonald,663,Melbourne,2022,25,KEY_FORWARD,CD_I291533,1992-09-18,2010,195,101,Edenhope-Apsley (Vic)/North Ballarat U18,2011,nationalDraft,53,2022-10-24
+Adam,Tomlinson,509,Melbourne,2022,20,KEY_DEFENDER,CD_I291819,1993-08-10,2011,194,95,Canterbury (Vic)/Trinity Grammar (Vic)/Oakleigh U18/GWS,2012,nationalDraft,9,2022-10-24
+Ben,Brown,667,Melbourne,2022,50,KEY_FORWARD,CD_I291867,1992-11-20,2013,200,101,Devonport (Tas)/Tasmania U18/Werribee (VFL)/North Melb,2014,nationalDraft,47,2022-10-24
+Jack,Viney,608,Melbourne,2022,7,MIDFIELDER,CD_I291902,1994-04-13,2012,179,86,Ashburton (Vic)/Carey Grammar (Vic)/Oakleigh U18/Casey (VFL),2013,fatherSon,26,2022-10-24
+Luke,Dunstan,724,Melbourne,2022,27,MIDFIELDER,CD_I294429,1995-01-29,2013,185,86,South Clare (SA)/Woodville-West Torrens (SANFL)/St Kilda,2014,nationalDraft,18,2022-10-24
+Christian,Salem,735,Melbourne,2022,3,MEDIUM_DEFENDER,CD_I296359,1995-07-15,2013,184,84,Hampton Rovers (Vic)/Sandringham U18,2014,nationalDraft,9,2022-10-24
+Alex,Neal-Bullen,893,Melbourne,2022,30,MEDIUM_FORWARD,CD_I296420,1996-01-09,2014,183,81,Plympton (SA)/Glenelg (SANFL),2015,nationalDraft,40,2022-10-24
+James,Harmes,742,Melbourne,2022,4,MIDFIELDER_FORWARD,CD_I297899,1995-10-05,2015,186,85,Devon Meadows (Vic)/Dandenong U18,2015,rookieElevation,NA,2022-10-24
+Christian,Petracca,1001,Melbourne,2022,5,MIDFIELDER,CD_I298210,1996-01-04,2014,187,98,Beverley Hills (Vic)/Eastern U18,2016,nationalDraft,2,2022-10-24
+Ed,Langdon,810,Melbourne,2022,15,MIDFIELDER,CD_I298264,1996-02-01,2014,182,77,Glen Iris (Vic)/Melb Grammar (Vic)/Sandringham U18/Fremantle,2015,nationalDraft,54,2022-10-24
+Angus,Brayshaw,1033,Melbourne,2022,10,MEDIUM_DEFENDER,CD_I298279,1996-01-09,2014,187,92,Hampton Rovers (Vic)/Sandringham U18,2015,nationalDraft,3,2022-10-24
+Jake,Lever,856,Melbourne,2022,8,KEY_DEFENDER,CD_I298281,1996-03-05,2014,195,92,Romsey (Vic)/Calder U18/Adelaide,2015,nationalDraft,14,2022-10-24
+Sam,Weideman,1000,Melbourne,2022,26,KEY_FORWARD,CD_I993806,1997-06-26,2015,197,97,Vermont (Vic)/Whitefriars College (Vic)/Eastern U18,2016,nationalDraft,9,2022-10-24
+Jayden,Hunt,746,Melbourne,2022,29,MEDIUM_DEFENDER,CD_I994385,1995-04-03,2013,187,88,East Sandringham (Vic)/Brighton Grammar (Vic),2016,nationalDraft,57,2022-10-24
+Clayton,Oliver,899,Melbourne,2022,13,MIDFIELDER,CD_I996701,1997-07-22,2015,189,87,Mooroopna (Vic)/Bendigo U18/Murray U18,2016,nationalDraft,4,2022-10-24
+Tom,Sparrow,1947,Melbourne,2022,32,MIDFIELDER_FORWARD,CD_I999391,2000-05-31,2018,183,85,Bridgewater Callington (SA)/South Adelaide (SANFL),2019,nationalDraft,27,2022-10-24
+Patrick,Naish,1613,West Coast Eagles,2022,43,MIDFIELDER,CD_I1002231,1999-01-15,NA,183,77,NA,NA,NA,NA,2022-10-24
+Stefan,Giro,1729,West Coast Eagles,2022,48,MEDIUM_FORWARD,CD_I1002354,1999-03-10,NA,175,71,NA,NA,NA,NA,2022-10-24
+Hugh,Dixon,1673,West Coast Eagles,2022,41,KEY_FORWARD,CD_I1002372,1999-02-26,NA,197,101,NA,NA,NA,NA,2022-10-24
+Connor,West,5559,West Coast Eagles,2022,36,MIDFIELDER_FORWARD,CD_I1003192,1999-05-07,NA,182,81,NA,NA,NA,NA,2022-10-24
+Zac,Langdon,1588,West Coast Eagles,2022,7,MEDIUM_FORWARD,CD_I1004286,1995-11-13,NA,178,80,NA,NA,NA,NA,2022-10-24
+Brayden,Ainsworth,1734,West Coast Eagles,2022,46,MIDFIELDER_FORWARD,CD_I1004356,1998-11-21,NA,184,80,NA,NA,NA,NA,2022-10-24
+Liam,Ryan,1787,West Coast Eagles,2022,1,MEDIUM_FORWARD,CD_I1004364,1996-10-02,NA,180,76,NA,NA,NA,NA,2022-10-24
+Oscar,Allen,1718,West Coast Eagles,2022,12,KEY_FORWARD,CD_I1004385,1999-03-19,NA,196,95,NA,NA,NA,NA,2022-10-24
+Luke,Foley,1963,West Coast Eagles,2022,29,MEDIUM_DEFENDER,CD_I1005599,1999-10-08,NA,189,81,NA,NA,NA,NA,2022-10-24
+Bailey J.,Williams,1904,West Coast Eagles,2022,32,RUCK,CD_I1006114,2000-04-17,NA,201,100,NA,NA,NA,NA,2022-10-24
+Tom,Joyce,1827,West Coast Eagles,2022,38,MIDFIELDER,CD_I1006150,2000-03-07,NA,181,88,NA,NA,NA,NA,2022-10-24
+Jack,Petruccelle,1720,West Coast Eagles,2022,21,MEDIUM_FORWARD,CD_I1006550,1999-04-12,NA,187,82,NA,NA,NA,NA,2022-10-24
+Luke,Edwards,4078,West Coast Eagles,2022,16,MIDFIELDER,CD_I1006576,2002-01-12,NA,189,84,NA,NA,NA,NA,2022-10-24
+Xavier,O'Neill,1930,West Coast Eagles,2022,24,MIDFIELDER,CD_I1008282,2000-08-03,NA,186,84,NA,NA,NA,NA,2022-10-24
+Isiah,Winder,4077,West Coast Eagles,2022,22,MEDIUM_FORWARD,CD_I1009291,2002-05-16,NA,180,80,NA,NA,NA,NA,2022-10-24
+Callum,Jamieson,3739,West Coast Eagles,2022,40,RUCK,CD_I1011243,2000-07-31,NA,200,94,NA,NA,NA,NA,2022-10-24
+Harry,Edwards,1854,West Coast Eagles,2022,42,KEY_DEFENDER,CD_I1011437,2000-10-01,NA,200,98,NA,NA,NA,NA,2022-10-24
+Zane,Trew,4076,West Coast Eagles,2022,26,MIDFIELDER_FORWARD,CD_I1011449,2002-04-26,NA,187,81,NA,NA,NA,NA,2022-10-24
+Campbell,Chesser,3356,West Coast Eagles,2022,18,MIDFIELDER,CD_I1017057,2003-04-27,NA,186,83,NA,NA,NA,NA,2022-10-24
+Rhett,Bazzo,5699,West Coast Eagles,2022,33,KEY_DEFENDER,CD_I1017718,2003-10-17,NA,195,86,NA,NA,NA,NA,2022-10-24
+Jack,Williams,5700,West Coast Eagles,2022,34,RUCK,CD_I1020371,2003-12-01,NA,198,94,NA,NA,NA,NA,2022-10-24
+Jai,Culley,5064,West Coast Eagles,2022,49,MIDFIELDER,CD_I1020802,2003-02-24,NA,193,87,NA,NA,NA,NA,2022-10-24
+Brady,Hough,5701,West Coast Eagles,2022,19,MIDFIELDER,CD_I1023167,2003-03-05,NA,190,77,NA,NA,NA,NA,2022-10-24
+Shannon,Hurn,555,West Coast Eagles,2022,25,MEDIUM_DEFENDER,CD_I240283,1987-09-04,2005,187,95,Angaston (SA)/Central District (SANFL),2006,nationalDraft,13,2022-10-24
+Josh J.,Kennedy,701,West Coast Eagles,2022,17,KEY_FORWARD,CD_I240406,1987-08-25,2005,196,102,Northampton (WA)/East Fremantle (WAFL)/Carlton,2006,nationalDraft,4,2022-10-24
+Nic,Naitanui,689,West Coast Eagles,2022,9,RUCK,CD_I271045,1990-05-04,2008,202,112,Midvale (WA)/Swan Districts (WAFL),2009,nationalDraft,2,2022-10-24
+Luke,Shuey,688,West Coast Eagles,2022,13,MIDFIELDER,CD_I280078,1990-06-02,2008,184,89,Bulleen-Templestowe (Vic)/Marcellin College (Vic)/Oakleigh U18,2010,nationalDraft,18,2022-10-24
+Brad,Sheppard,839,West Coast Eagles,2022,5,MEDIUM_DEFENDER,CD_I281080,1991-05-23,2009,187,85,Attadale (WA)/East Fremantle (WAFL),2010,nationalDraft,7,2022-10-24
+Jack,Redden,191,West Coast Eagles,2022,8,MIDFIELDER,CD_I281373,1990-12-09,2008,190,83,Keith (SA)/Glenelg (SANFL)/Brisbane,2009,nationalDraft,25,2022-10-24
+Andrew,Gaff,709,West Coast Eagles,2022,3,MIDFIELDER,CD_I290801,1992-06-16,2010,183,85,Kew (Vic)/Carey Grammar (Vic)/Oakleigh U18,2011,nationalDraft,4,2022-10-24
+Jamie,Cripps,751,West Coast Eagles,2022,15,MEDIUM_FORWARD,CD_I290826,1992-04-23,2010,183,83,Northampton (WA)/East Fremantle (WAFL)/St Kilda,2011,nationalDraft,24,2022-10-24
+Jack,Darling,842,West Coast Eagles,2022,27,KEY_FORWARD,CD_I290838,1992-06-13,2010,191,95,Sorrento-Duncraig (WA)/West Perth (WAFL),2011,nationalDraft,26,2022-10-24
+Aaron,Black,6203,West Coast Eagles,2022,47,MEDIUM_FORWARD,CD_I291589,1992-12-25,NA,181,81,NA,NA,NA,NA,2022-10-24
+Elliot,Yeo,584,West Coast Eagles,2022,6,MEDIUM_DEFENDER,CD_I292128,1993-10-01,2011,190,91,Booragoon (WA)/East Fremantle (WAFL)/Brisbane,2012,nationalDraft,30,2022-10-24
+Angus,Dewar,417,West Coast Eagles,2022,0,MEDIUM_DEFENDER,CD_I294178,1992-10-12,2010,190,88,Ongerup/Hawthorn/Subiaco (WAFL),2014,nationalDraft,55,2022-10-24
+Jeremy,McGovern,752,West Coast Eagles,2022,20,KEY_DEFENDER,CD_I294859,1992-04-15,2013,197,99,North Albany (WA)/Claremont (WAFL),2014,rookieElevation,74,2022-10-24
+Tim,Kelly,1741,West Coast Eagles,2022,11,MIDFIELDER,CD_I295898,1994-07-26,NA,183,85,NA,NA,NA,NA,2022-10-24
+Willie,Rioli,1411,West Coast Eagles,2022,44,MIDFIELDER_FORWARD,CD_I296225,1995-06-04,NA,175,78,NA,NA,NA,NA,2022-10-24
+Dom,Sheed,849,West Coast Eagles,2022,4,MIDFIELDER,CD_I296296,1995-04-10,NA,187,87,NA,NA,NA,NA,2022-10-24
+Liam,Duggan,956,West Coast Eagles,2022,14,MEDIUM_DEFENDER,CD_I298268,1996-12-11,NA,186,84,NA,NA,NA,NA,2022-10-24
+Jackson,Nelson,978,West Coast Eagles,2022,30,MIDFIELDER,CD_I298298,1996-03-15,NA,189,86,NA,NA,NA,NA,2022-10-24
+Tom,Barrass,789,West Coast Eagles,2022,37,KEY_DEFENDER,CD_I990290,1995-10-08,NA,197,96,NA,NA,NA,NA,2022-10-24
+Greg,Clark,5702,West Coast Eagles,2022,39,MIDFIELDER,CD_I990978,1997-05-24,NA,195,94,NA,NA,NA,NA,2022-10-24
+Tom,Cole,1146,West Coast Eagles,2022,28,MEDIUM_DEFENDER,CD_I993820,1997-05-28,NA,188,83,NA,NA,NA,NA,2022-10-24
+Sam,Petrevski-Seton,1289,West Coast Eagles,2022,10,MEDIUM_FORWARD,CD_I994539,1998-02-19,NA,182,81,NA,NA,NA,NA,2022-10-24
+Jake,Waterman,1381,West Coast Eagles,2022,2,KEY_FORWARD,CD_I996554,1998-05-06,NA,193,92,NA,NA,NA,NA,2022-10-24
+Jake,Florenca,6307,West Coast Eagles,2022,46,MIDFIELDER,CD_I996603,1997-05-15,NA,184,86,NA,NA,NA,NA,2022-10-24
+Josh,Rotham,1380,West Coast Eagles,2022,35,MEDIUM_DEFENDER,CD_I997823,1998-02-25,NA,193,89,NA,NA,NA,NA,2022-10-24
+Alex,Witherden,1307,West Coast Eagles,2022,23,MEDIUM_DEFENDER,CD_I998128,1998-09-10,NA,188,86,NA,NA,NA,NA,2022-10-24
+Luke,Strnadica,1391,West Coast Eagles,2022,45,RUCK,CD_I998192,1998-01-01,NA,202,102,NA,NA,NA,NA,2022-10-24
+Jamaine,Jones,1300,West Coast Eagles,2022,31,MEDIUM_DEFENDER,CD_I998791,1998-09-29,NA,179,81,NA,NA,NA,NA,2022-10-24
+Declan,Mountford,965,West Coast Eagles,2022,47,MIDFIELDER,CD_I999724,1997-02-13,NA,183,78,NA,NA,NA,NA,2022-10-24

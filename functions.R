@@ -14,3 +14,8 @@ lead_multiple <- function(x, n_vec){
     set_names(paste0("lead", n_vec)) %>% 
     as_tibble()
 }
+
+
+funcUnique = function(x){
+  as.character(x)[!(duplicated(as.character(x))|duplicated(as.character(x), fromLast=TRUE))]
+}
